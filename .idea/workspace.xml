@@ -4,35 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Code Learning/.idea/HackerRank.iml" afterPath="$PROJECT_DIR$/../Code Learning/.idea/Code Learning.iml" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Code Learning/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Bitwise AND.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Extra-Long-Factorials.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Grading-Students.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Linked List.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/More Linked Lists.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Nested Logic.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/30 Days of Code/Testing.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Algorithms/Dynamic Programming/The Coin Change Problem.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Algorithms/Greedy/Goodland-Electricity.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Artificial Intelligence/Bot Building/Bot saves princess.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/1-multiples-of-3-and-5.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/10-summation-of-primes.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/2-even-fibonacci-numbers.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/3-largest-prime-factor.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/4-largest-palindrome-product.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/5-smallest-multiple.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/6-sum-square-difference.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/7-10001st-prime.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/8-largest-product-in-a-series.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../Code Learning/ProjectEuler+/9-special-pythagorean-triplet.py" afterPath="" />
-    </list>
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -370,11 +342,19 @@
       <option name="project" value="LOCAL" />
       <updated>1520492198295</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="rename project to code learning">
+      <created>1521380397492</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521380397492</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -412,7 +392,8 @@
     <MESSAGE value="2 more challenges from Project Euler;" />
     <MESSAGE value="style fixes" />
     <MESSAGE value="#10 from Project Euler" />
-    <option name="LAST_COMMIT_MESSAGE" value="#10 from Project Euler" />
+    <MESSAGE value="rename project to code learning" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename project to code learning" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
