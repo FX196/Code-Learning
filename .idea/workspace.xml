@@ -5,12 +5,9 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished sum of pairs">
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" afterPath="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" afterPath="$PROJECT_DIR$/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +28,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sum of pairs.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sum of pairs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="525">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product of consecutive fib numbers.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -105,6 +112,7 @@
         <option value="$PROJECT_DIR$/CodeWars/Is my friend cheating.py" />
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" />
+        <option value="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
       </list>
     </option>
   </component>
@@ -414,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1521429991350</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="code cleanup">
+      <created>1521441734152</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1521441734152</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -423,7 +438,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31113425" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -472,7 +487,8 @@
     <MESSAGE value="finished is my friend cheating" />
     <MESSAGE value="finished longest pyramid slide" />
     <MESSAGE value="finished sum of pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished sum of pairs" />
+    <MESSAGE value="code cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="code cleanup" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -579,13 +595,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="29" column="4" lean-forward="false" selection-start-line="29" selection-start-column="4" selection-end-line="29" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -959,8 +968,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
           <folding />
         </state>
       </provider>
