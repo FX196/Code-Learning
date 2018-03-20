@@ -23,8 +23,8 @@ work. One should use importlib as the public-facing version of this module.
 # Bootstrap-related code ######################################################
 _CASE_INSENSITIVE_PLATFORMS_STR_KEY = 'win',
 _CASE_INSENSITIVE_PLATFORMS_BYTES_KEY = 'cygwin', 'darwin'
-_CASE_INSENSITIVE_PLATFORMS =  (_CASE_INSENSITIVE_PLATFORMS_BYTES_KEY
-                                + _CASE_INSENSITIVE_PLATFORMS_STR_KEY)
+_CASE_INSENSITIVE_PLATFORMS = (_CASE_INSENSITIVE_PLATFORMS_BYTES_KEY
+                               + _CASE_INSENSITIVE_PLATFORMS_STR_KEY)
 
 
 def _make_relax_case():
@@ -126,7 +126,6 @@ def _write_atomic(path, data, mode=0o666):
 
 
 _code_type = type(_write_atomic.__code__)
-
 
 # Finder/loader utility code ###############################################
 
@@ -273,6 +272,7 @@ BYTECODE_SUFFIXES = ['.pyc']
 # Deprecated.
 DEBUG_BYTECODE_SUFFIXES = OPTIMIZED_BYTECODE_SUFFIXES = BYTECODE_SUFFIXES
 
+
 def cache_from_source(path, debug_override=None, *, optimization=None):
     """Given the path to a .py file, return the path to its .pyc file.
 
@@ -409,13 +409,15 @@ def _check_name(method):
     compared against. If the comparison fails then ImportError is raised.
 
     """
+
     def _check_name_wrapper(self, name=None, *args, **kwargs):
         if name is None:
             name = self.name
         elif self.name != name:
             raise ImportError('loader for %s cannot handle %s' %
-                                (self.name, name), name=name)
+                              (self.name, name), name=name)
         return method(self, name, *args, **kwargs)
+
     try:
         _wrap = _bootstrap._wrap
     except NameError:
@@ -515,6 +517,7 @@ def _compile_bytecode(data, name=None, bytecode_path=None, source_path=None):
         raise ImportError('Non-code object in {!r}'.format(bytecode_path),
                           name=name, path=bytecode_path)
 
+
 def _code_to_bytecode(code, mtime=0, source_size=0):
     """Compile a code object into bytecode for writing out to a byte-compiled
     file."""
@@ -609,7 +612,6 @@ def spec_from_file_location(name, location=None, *, loader=None,
 # Loaders #####################################################################
 
 class WindowsRegistryFinder:
-
     """Meta path finder for modules declared in the Windows registry."""
 
     REGISTRY_KEY = (
@@ -673,7 +675,6 @@ class WindowsRegistryFinder:
 
 
 class _LoaderBasics:
-
     """Base class of common code needed by both SourceLoader and
     SourcelessFileLoader."""
 
@@ -739,7 +740,6 @@ class SourceLoader(_LoaderBasics):
         Implementing this method allows for the writing of bytecode files.
         """
 
-
     def get_source(self, fullname):
         """Concrete implementation of InspectLoader.get_source."""
         path = self.get_filename(fullname)
@@ -756,7 +756,7 @@ class SourceLoader(_LoaderBasics):
         The 'data' argument can be any object type that compile() supports.
         """
         return _bootstrap._call_with_frames_removed(compile, data, path, 'exec',
-                                        dont_inherit=True, optimize=_optimize)
+                                                    dont_inherit=True, optimize=_optimize)
 
     def get_code(self, fullname):
         """Concrete implementation of InspectLoader.get_code.
@@ -785,13 +785,13 @@ class SourceLoader(_LoaderBasics):
                 else:
                     try:
                         bytes_data = _validate_bytecode_header(data,
-                                source_stats=st, name=fullname,
-                                path=bytecode_path)
+                                                               source_stats=st, name=fullname,
+                                                               path=bytecode_path)
                     except (ImportError, EOFError):
                         pass
                     else:
                         _verbose_message('{} matches {}', bytecode_path,
-                                        source_path)
+                                         source_path)
                         return _compile_bytecode(bytes_data, name=fullname,
                                                  bytecode_path=bytecode_path,
                                                  source_path=source_path)
@@ -801,7 +801,7 @@ class SourceLoader(_LoaderBasics):
         if (not sys.dont_write_bytecode and bytecode_path is not None and
                 source_mtime is not None):
             data = _code_to_bytecode(code_object, source_mtime,
-                    len(source_bytes))
+                                     len(source_bytes))
             try:
                 self._cache_bytecode(source_path, bytecode_path, data)
                 _verbose_message('wrote {!r}', bytecode_path)
@@ -811,7 +811,6 @@ class SourceLoader(_LoaderBasics):
 
 
 class FileLoader:
-
     """Base file loader class which implements the loader protocol methods that
     require file system usage."""
 
@@ -852,7 +851,6 @@ class FileLoader:
 
 
 class SourceFileLoader(FileLoader, SourceLoader):
-
     """Concrete implementation of SourceLoader using the file system."""
 
     def path_stats(self, path):
@@ -895,7 +893,6 @@ class SourceFileLoader(FileLoader, SourceLoader):
 
 
 class SourcelessFileLoader(FileLoader, _LoaderBasics):
-
     """Loader which handles sourceless file imports."""
 
     def get_code(self, fullname):
@@ -914,7 +911,6 @@ EXTENSION_SUFFIXES = []
 
 
 class ExtensionFileLoader(FileLoader, _LoaderBasics):
-
     """Loader for extension modules.
 
     The constructor is designed to work with FileFinder.
@@ -995,7 +991,7 @@ class _NamespacePath:
 
     def _recalculate(self):
         # If the parent's path has changed, recalculate _path
-        parent_path = tuple(self._get_parent_path()) # Make a copy
+        parent_path = tuple(self._get_parent_path())  # Make a copy
         if parent_path != self._last_parent_path:
             spec = self._path_finder(self._name, parent_path)
             # Note that no changes are made if a loader is returned, but we
@@ -1003,7 +999,7 @@ class _NamespacePath:
             if spec is not None and spec.loader is None:
                 if spec.submodule_search_locations:
                     self._path = spec.submodule_search_locations
-            self._last_parent_path = parent_path     # Save the copy
+            self._last_parent_path = parent_path  # Save the copy
         return self._path
 
     def __iter__(self):
@@ -1065,7 +1061,6 @@ class _NamespaceLoader:
 # Finders #####################################################################
 
 class PathFinder:
-
     """Meta path finder for sys.path and package __path__ attributes."""
 
     @classmethod
@@ -1199,7 +1194,6 @@ class PathFinder:
 
 
 class FileFinder:
-
     """File-based finder.
 
     Interactions with the file system are cached for performance, being
@@ -1330,6 +1324,7 @@ class FileFinder:
         raised.
 
         """
+
         def path_hook_for_FileFinder(path):
             """Path hook for importlib.machinery.FileFinder."""
             if not _path_isdir(path):

@@ -1,20 +1,13 @@
 """Utility code for constructing importers, etc."""
-from . import abc
-from ._bootstrap import module_from_spec
-from ._bootstrap import _resolve_name
-from ._bootstrap import spec_from_loader
-from ._bootstrap import _find_spec
-from ._bootstrap_external import MAGIC_NUMBER, _BACKCOMPAT_MAGIC_NUMBER
-from ._bootstrap_external import cache_from_source
-from ._bootstrap_external import decode_source
-from ._bootstrap_external import source_from_cache
-from ._bootstrap_external import spec_from_file_location
-
-from contextlib import contextmanager
 import functools
 import sys
 import types
 import warnings
+from contextlib import contextmanager
+
+from . import abc
+from ._bootstrap import _find_spec
+from ._bootstrap import _resolve_name
 
 
 def resolve_name(name, package):
@@ -135,6 +128,7 @@ def set_package(fxn):
     This function is deprecated.
 
     """
+
     @functools.wraps(fxn)
     def set_package_wrapper(*args, **kwargs):
         warnings.warn('The import system now takes care of this automatically.',
@@ -145,6 +139,7 @@ def set_package(fxn):
             if not hasattr(module, '__path__'):
                 module.__package__ = module.__package__.rpartition('.')[0]
         return module
+
     return set_package_wrapper
 
 
@@ -154,6 +149,7 @@ def set_loader(fxn):
     This function is deprecated.
 
     """
+
     @functools.wraps(fxn)
     def set_loader_wrapper(self, *args, **kwargs):
         warnings.warn('The import system now takes care of this automatically.',
@@ -162,6 +158,7 @@ def set_loader(fxn):
         if getattr(module, '__loader__', None) is None:
             module.__loader__ = self
         return module
+
     return set_loader_wrapper
 
 
@@ -185,6 +182,7 @@ def module_for_loader(fxn):
     """
     warnings.warn('The import system now takes care of this automatically.',
                   DeprecationWarning, stacklevel=2)
+
     @functools.wraps(fxn)
     def module_for_loader_wrapper(self, fullname, *args, **kwargs):
         with _module_to_load(fullname) as module:
@@ -205,12 +203,10 @@ def module_for_loader(fxn):
 
 
 class _Module(types.ModuleType):
-
     """A subclass of the module type to allow __class__ manipulation."""
 
 
 class _LazyModule(types.ModuleType):
-
     """A subclass of the module type which triggers loading upon attribute access."""
 
     def __getattribute__(self, attr):
@@ -256,7 +252,6 @@ class _LazyModule(types.ModuleType):
 
 
 class LazyLoader(abc.Loader):
-
     """A loader that creates a module which defers loading until attribute access."""
 
     @staticmethod

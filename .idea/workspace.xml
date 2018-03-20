@@ -6,8 +6,197 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/Product of consecutive fib numbers.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/11-largest-product-in-a-grid.py" afterPath="$PROJECT_DIR$/HackerRank/ProjectEuler+/11-largest-product-in-a-grid.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/__future__.py" afterPath="$PROJECT_DIR$/venv/Lib/__future__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_bootlocale.py" afterPath="$PROJECT_DIR$/venv/Lib/_bootlocale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_collections_abc.py" afterPath="$PROJECT_DIR$/venv/Lib/_collections_abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_dummy_thread.py" afterPath="$PROJECT_DIR$/venv/Lib/_dummy_thread.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" afterPath="$PROJECT_DIR$/venv/Lib/_weakrefset.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/base64.py" afterPath="$PROJECT_DIR$/venv/Lib/base64.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/bisect.py" afterPath="$PROJECT_DIR$/venv/Lib/bisect.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/codecs.py" afterPath="$PROJECT_DIR$/venv/Lib/codecs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/collections/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/collections/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/collections/__main__.py" afterPath="$PROJECT_DIR$/venv/Lib/collections/__main__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/collections/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/collections/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/copy.py" afterPath="$PROJECT_DIR$/venv/Lib/copy.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/copyreg.py" afterPath="$PROJECT_DIR$/venv/Lib/copyreg.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/distutils/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/distutils/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/aliases.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ascii.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/base64_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/big5hkscs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/bz2_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/charmap.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp037.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1006.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1026.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1125.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1125.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1140.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1250.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1251.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1252.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1253.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1254.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1255.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1256.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1257.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp1258.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp273.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp273.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp424.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp437.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp500.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp65001.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp65001.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp720.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp737.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp775.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp850.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp852.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp855.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp856.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp857.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp858.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp860.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp861.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp862.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp863.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp864.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp865.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp866.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp869.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp874.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp875.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp932.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp949.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/cp950.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jis_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jisx0213.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_jp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/euc_kr.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb18030.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gb2312.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/gbk.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hex_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hp_roman8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/hz.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/idna.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_3.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_jp_ext.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso2022_kr.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_10.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_11.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_13.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_14.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_15.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_16.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_3.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_4.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_5.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_6.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_7.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/iso8859_9.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/johab.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_r.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_t.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_t.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/koi8_u.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/kz1048.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/kz1048.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/latin_1.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_arabic.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_centeuro.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_croatian.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_cyrillic.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_farsi.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_greek.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_iceland.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_latin2.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_roman.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_romanian.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mac_turkish.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/mbcs.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/palmos.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/ptcp154.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/punycode.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/quopri_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/raw_unicode_escape.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/rot_13.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jis_2004.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/shift_jisx0213.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/tis_620.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/undefined.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_escape.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/unicode_internal.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_be.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_16_le.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_be.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_32_le.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_7.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/utf_8_sig.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/uu_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" afterPath="$PROJECT_DIR$/venv/Lib/encodings/zlib_codec.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/fnmatch.py" afterPath="$PROJECT_DIR$/venv/Lib/fnmatch.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/functools.py" afterPath="$PROJECT_DIR$/venv/Lib/functools.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/genericpath.py" afterPath="$PROJECT_DIR$/venv/Lib/genericpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/hashlib.py" afterPath="$PROJECT_DIR$/venv/Lib/hashlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/heapq.py" afterPath="$PROJECT_DIR$/venv/Lib/heapq.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/hmac.py" afterPath="$PROJECT_DIR$/venv/Lib/hmac.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/imp.py" afterPath="$PROJECT_DIR$/venv/Lib/imp.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/__init__.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/__init__.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap_external.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/_bootstrap_external.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/abc.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/abc.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/machinery.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/machinery.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/importlib/util.py" afterPath="$PROJECT_DIR$/venv/Lib/importlib/util.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/io.py" afterPath="$PROJECT_DIR$/venv/Lib/io.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/keyword.py" afterPath="$PROJECT_DIR$/venv/Lib/keyword.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/linecache.py" afterPath="$PROJECT_DIR$/venv/Lib/linecache.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/locale.py" afterPath="$PROJECT_DIR$/venv/Lib/locale.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/ntpath.py" afterPath="$PROJECT_DIR$/venv/Lib/ntpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/operator.py" afterPath="$PROJECT_DIR$/venv/Lib/operator.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/os.py" afterPath="$PROJECT_DIR$/venv/Lib/os.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/posixpath.py" afterPath="$PROJECT_DIR$/venv/Lib/posixpath.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/random.py" afterPath="$PROJECT_DIR$/venv/Lib/random.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/re.py" afterPath="$PROJECT_DIR$/venv/Lib/re.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/reprlib.py" afterPath="$PROJECT_DIR$/venv/Lib/reprlib.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/rlcompleter.py" afterPath="$PROJECT_DIR$/venv/Lib/rlcompleter.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/shutil.py" afterPath="$PROJECT_DIR$/venv/Lib/shutil.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/cycler.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cycler.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pylab.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pylab.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pyparsing.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/six.py" afterPath="$PROJECT_DIR$/venv/Lib/site-packages/six.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site.py" afterPath="$PROJECT_DIR$/venv/Lib/site.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_compile.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_compile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_constants.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_constants.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/sre_parse.py" afterPath="$PROJECT_DIR$/venv/Lib/sre_parse.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/stat.py" afterPath="$PROJECT_DIR$/venv/Lib/stat.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/struct.py" afterPath="$PROJECT_DIR$/venv/Lib/struct.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tarfile.py" afterPath="$PROJECT_DIR$/venv/Lib/tarfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tempfile.py" afterPath="$PROJECT_DIR$/venv/Lib/tempfile.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/token.py" afterPath="$PROJECT_DIR$/venv/Lib/token.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/tokenize.py" afterPath="$PROJECT_DIR$/venv/Lib/tokenize.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/types.py" afterPath="$PROJECT_DIR$/venv/Lib/types.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/warnings.py" afterPath="$PROJECT_DIR$/venv/Lib/warnings.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/weakref.py" afterPath="$PROJECT_DIR$/venv/Lib/weakref.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate_this.py" afterPath="$PROJECT_DIR$/venv/Scripts/activate_this.py" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/f2py.py" afterPath="$PROJECT_DIR$/venv/Scripts/f2py.py" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,31 +207,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Is my friend cheating.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py">
+      <file leaf-file-name="Reverse polish notation calclator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sum of pairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product of consecutive fib numbers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+            <state relative-caret-position="189">
+              <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -113,10 +282,14 @@
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
+        <option value="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" />
+        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" />
+        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
   </component>
@@ -138,7 +311,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,7 +346,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,38 +375,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sum of pairs">
-    <configuration name="10-summation-of-primes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Reverse polish notation calclator">
+    <configuration name="Finding an appointment" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler+" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler+/10-summation-of-primes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="9-special-pythagorean-triplet" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ProjectEuler+" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="HackerRank" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProjectEuler+/9-special-pythagorean-triplet.py" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -257,6 +412,42 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Range Extraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/4-kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Reverse polish notation calclator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/4-kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="Sum of pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -275,38 +466,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="WeIrD StRiNg CaSe" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="C:\Users\YuHong\PycharmProjects\Code Learning\CodeWars\6-kyu\WeIrD StRiNg CaSe.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.9-special-pythagorean-triplet" />
-      <item index="1" class="java.lang.String" itemvalue="Python.10-summation-of-primes" />
-      <item index="2" class="java.lang.String" itemvalue="Python.WeIrD StRiNg CaSe" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Is my friend cheating" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Sum of pairs" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Is my friend cheating" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Sum of pairs" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Finding an appointment" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Range Extraction" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Reverse polish notation calclator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Sum of pairs" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Is my friend cheating" />
-        <item index="2" class="java.lang.String" itemvalue="Python.WeIrD StRiNg CaSe" />
-        <item index="3" class="java.lang.String" itemvalue="Python.10-summation-of-primes" />
-        <item index="4" class="java.lang.String" itemvalue="Python.9-special-pythagorean-triplet" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Reverse polish notation calclator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Range Extraction" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Finding an appointment" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Sum of pairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Is my friend cheating" />
       </list>
     </recent_temporary>
   </component>
@@ -436,41 +609,38 @@
       <option name="project" value="LOCAL" />
       <updated>1521442583529</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="reformat">
+      <created>1521442638378</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1521442638378</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12760417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.529724" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31113425" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33828208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361612" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34040296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33934253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33828208" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26008493" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31113425" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34040296" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -496,7 +666,8 @@
     <MESSAGE value="finished sum of pairs" />
     <MESSAGE value="code cleanup" />
     <MESSAGE value="finished kata" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished kata" />
+    <MESSAGE value="reformat" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -587,6 +758,16 @@
           <line>11</line>
           <option name="timeStamp" value="46" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -598,33 +779,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="47" />
+      <option name="time" value="54" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -950,10 +1109,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Product of consecutive fib numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="39" lean-forward="false" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
           <folding />
         </state>
       </provider>
@@ -966,26 +1163,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py">
+    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        <state relative-caret-position="189">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
           <folding />
         </state>
       </provider>
