@@ -1,37 +1,28 @@
 #!/bin/python3
 
-
-def getWaysDict(n, c, dict):
-    if n < 0:
+def getWaysMem(n, c, ind, d):
+    if n == 0:
+        return 1
+    elif n < 0:
         return 0
-    elif n == 0:
-        return 1
-    elif n in dict:
-        return dict[n]
-    elif n == min(c):
-        dict[min(c)] = 1
-        return 1
+    elif ind < 0:
+        return 0
+    elif n in d.keys() and ind in d[n].keys():
+        return d[n][ind]
     else:
-        res = 0
-        for coin in c:
-            res += getWaysDict(n - coin, c, dict)
-            if n not in c:
-                res -= getWaysDict(coin, c, dict) - 1
-        dict[n] = res
-        return res
-
-
-def getWaysMem(sum, coins, coin_num):
-    pass
+        if not n in d.keys():
+            d[n] = {}
+        d[n][ind] = getWaysMem(n, c, ind - 1, d) + getWaysMem(n - c[ind], c, ind, d)
+        return d[n][ind]
 
 
 def getWays(n, c):
-    res = getWaysDict(n, c, {})
-    print(res)
-
+    d = {}
+    return getWaysMem(n, c, len(c) - 1, d)
 
 n, m = input().strip().split(' ')
 n, m = [int(n), int(m)]
 c = list(map(int, input().strip().split(' ')))
 # Print the number of ways of making change for 'n' units using coins having the values given by 'c'
 ways = getWays(n, c)
+print(ways)
