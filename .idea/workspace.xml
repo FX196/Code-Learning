@@ -5,10 +5,22 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="some more challenges">
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/1-multiples-of-3-and-5.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/10-summation-of-primes.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/11-largest-product-in-a-grid.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/2-even-fibonacci-numbers.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/3-largest-prime-factor.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/4-largest-palindrome-product.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/5-smallest-multiple.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/6-sum-square-difference.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/7-10001st-prime.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/8-largest-product-in-a-series.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/9-special-pythagorean-triplet.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,41 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Encryption.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Abbreviation.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Stock Maximize.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fibonacci Modified.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Fibonacci Modified.py">
+      <file leaf-file-name="Maximum element.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="8-largest-product-in-a-series.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -145,10 +137,13 @@
         <option value="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py" />
         <option value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" />
         <option value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" />
+        <option value="$PROJECT_DIR$/HackerRank/HourRank 27/Impressing the boss.py" />
+        <option value="$PROJECT_DIR$/HackerRank/HourRank 27/Maximum Profit.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -172,6 +167,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,45 +183,12 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-              <item name="3-kyu" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Implementation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="ProjectEuler+" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,11 +198,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\HackerRank\Competitions" />
       <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\CodeWars\6-kyu" />
       <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\CodeWars\5-kyu" />
       <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\HackerRank" />
       <recent name="C:\Users\YuHong\PycharmProjects\HackerRank\30 Days of Code" />
-      <recent name="C:\Users\YuHong\PycharmProjects\HackerRank\Artificial Intelligence\Bot Building" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -254,7 +217,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Abbreviation">
+  <component name="RunManager" selected="Python.Maximum Profit">
     <configuration name="Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,42 +236,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Climbing the leaderboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Algorithms/Implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Encryption" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Algorithms/Implementation" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Equal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,6 +249,42 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code Learning" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Equal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Impressing the boss" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/HourRank 27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/HourRank 27/Impressing the boss.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Maximum Profit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/HourRank 27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/HourRank 27/Maximum Profit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -346,19 +309,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Encryption" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Climbing the leaderboard" />
-      <item index="2" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Equal" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Abbreviation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Equal" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Abbreviation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Impressing the boss" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Profit" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Abbreviation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Equal" />
-        <item index="2" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Climbing the leaderboard" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Encryption" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Profit" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Impressing the boss" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Abbreviation" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Equal" />
+        <item index="4" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
       </list>
     </recent_temporary>
   </component>
@@ -516,24 +479,31 @@
       <option name="project" value="LOCAL" />
       <updated>1523273277436</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="one and a half challenges">
+      <created>1523275697585</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1523275697585</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22399151" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236212" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3236212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361082" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3673257" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36524454" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4676564" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.458897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -571,7 +541,9 @@
     <MESSAGE value="reformat and finish reverse polish notation calculator" />
     <MESSAGE value="add katas" />
     <MESSAGE value="multiple challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="multiple challenges" />
+    <MESSAGE value="one and a half challenges" />
+    <MESSAGE value="some more challenges" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more challenges" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -619,32 +591,32 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/1-multiples-of-3-and-5.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py</url>
           <line>3</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/3-largest-prime-factor.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py</url>
           <line>3</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/4-largest-palindrome-product.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py</url>
           <line>22</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/5-smallest-multiple.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py</url>
           <line>4</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/7-10001st-prime.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py</url>
           <line>11</line>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/ProjectEuler+/9-special-pythagorean-triplet.py</url>
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py</url>
           <line>7</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
@@ -705,8 +677,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py</url>
-          <line>4</line>
+          <line>2</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -719,33 +701,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="66" />
+      <option name="time" value="68" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/More Linked Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -820,7 +780,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/2-even-fibonacci-numbers.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
@@ -834,21 +794,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/8-largest-product-in-a-series.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/6-sum-square-difference.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/9-special-pythagorean-triplet.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
@@ -856,7 +809,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/3-largest-prime-factor.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
@@ -864,7 +817,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/4-largest-palindrome-product.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
@@ -872,7 +825,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/5-smallest-multiple.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
@@ -880,7 +833,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/11-largest-product-in-a-grid.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="755">
           <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
@@ -978,7 +931,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/1-multiples-of-3-and-5.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
@@ -1000,7 +953,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/7-10001st-prime.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
@@ -1008,7 +961,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/ProjectEuler+/10-summation-of-primes.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="26" lean-forward="false" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
@@ -1026,7 +979,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="55" column="15" lean-forward="true" selection-start-line="55" selection-start-column="15" selection-end-line="55" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1050,7 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1081,15 +1032,7 @@
     <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <caret line="14" column="38" lean-forward="false" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
           <folding />
         </state>
       </provider>
@@ -1097,7 +1040,48 @@
     <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
