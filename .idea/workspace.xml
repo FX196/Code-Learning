@@ -5,22 +5,16 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="some more challenges">
-      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code Learning.iml" afterPath="$PROJECT_DIR$/.idea/Code Learning.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/1-multiples-of-3-and-5.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/10-summation-of-primes.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/11-largest-product-in-a-grid.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/2-even-fibonacci-numbers.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/3-largest-prime-factor.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/4-largest-palindrome-product.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/5-smallest-multiple.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/6-sum-square-difference.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/7-10001st-prime.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/8-largest-product-in-a-series.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/ProjectEuler+/9-special-pythagorean-triplet.py" afterPath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,21 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Maximum element.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py">
+      <file leaf-file-name="Vigenere Cipher Helper.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="273">
+              <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="8-largest-product-in-a-series.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py">
+      <file leaf-file-name="Molecule to atoms.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -89,12 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Extra-Long-Factorials.py" />
-        <option value="$PROJECT_DIR$/Grading-Students.py" />
-        <option value="$PROJECT_DIR$/Algorithms/Greedy/Goodland-Electricity.py" />
-        <option value="$PROJECT_DIR$/30 Days of Code/Linked List.py" />
-        <option value="$PROJECT_DIR$/30 Days of Code/More Linked Lists.py" />
-        <option value="$PROJECT_DIR$/30 Days of Code/Nested Logic.py" />
         <option value="$PROJECT_DIR$/30 Days of Code/Testing.py" />
         <option value="$PROJECT_DIR$/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" />
         <option value="$PROJECT_DIR$/30 Days of Code/Bitwise AND.py" />
@@ -140,10 +128,16 @@
         <option value="$PROJECT_DIR$/HackerRank/HourRank 27/Impressing the boss.py" />
         <option value="$PROJECT_DIR$/HackerRank/HourRank 27/Maximum Profit.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" />
+        <option value="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" />
+        <option value="$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py" />
+        <option value="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" />
+        <option value="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" />
+        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py" />
+        <option value="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="960" />
     <option name="width" value="960" />
     <option name="height" value="1080" />
@@ -166,8 +160,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,12 +175,37 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="3-kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="4-kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="5-kyu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Math of Intelligence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -217,38 +234,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Maximum Profit">
-    <configuration name="Abbreviation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.The Millionth Fibonacci">
+    <configuration name="Church Numbers-Add, Multiply, Exponents" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="Equal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Equal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,38 +289,56 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="The Coin Change Problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Support Vector Machines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Math of Intelligence" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Code Learning" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="The Millionth Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Code Learning" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Equal" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Abbreviation" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Impressing the boss" />
-      <item index="4" class="java.lang.String" itemvalue="Python.Maximum Profit" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Impressing the boss" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Maximum Profit" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Support Vector Machines" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Church Numbers-Add, Multiply, Exponents" />
+      <item index="4" class="java.lang.String" itemvalue="Python.The Millionth Fibonacci" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.Maximum Profit" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Impressing the boss" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Abbreviation" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Equal" />
-        <item index="4" class="java.lang.String" itemvalue="Python.The Coin Change Problem" />
+        <item index="0" class="java.lang.String" itemvalue="Python.The Millionth Fibonacci" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Church Numbers-Add, Multiply, Exponents" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Support Vector Machines" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Maximum Profit" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Impressing the boss" />
       </list>
     </recent_temporary>
   </component>
@@ -486,31 +503,38 @@
       <option name="project" value="LOCAL" />
       <updated>1523275697585</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="some more challenges">
+      <created>1523359283639</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1523359283639</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="960" y="0" width="960" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.10989583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3556263" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3236212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3361082" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36524454" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36373276" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.458897" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44953173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3236212" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31113425" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -690,6 +714,11 @@
           <line>10</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -701,55 +730,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="68" />
+      <option name="time" value="72" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="15" lean-forward="false" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Greedy/Goodland-Electricity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/numpy/linalg/linalg.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="527" column="0" lean-forward="false" selection-start-line="527" selection-start-column="0" selection-end-line="527" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1512">
-          <caret line="72" column="9" lean-forward="false" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="22" lean-forward="false" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
@@ -1017,7 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,18 +1054,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="24" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="false" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
           <folding />
         </state>
       </provider>
