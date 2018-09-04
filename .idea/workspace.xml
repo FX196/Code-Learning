@@ -5,7 +5,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Style changes" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished New Year Chaos">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +17,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Code_Learning$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1535601367429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$LengthOfLongestSubstring.coverage" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1535681777832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$LengthOfLongestSubstring.coverage" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1536021968390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$New_Year_Chaos.coverage" NAME="New Year Chaos Coverage Results" MODIFIED="1536022414314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
+    <SUITE FILE_PATH="coverage/Code_Learning$Minimum_Swaps.coverage" NAME="Minimum Swaps Coverage Results" MODIFIED="1536023762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1501016600">
@@ -24,51 +29,45 @@
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="673" />
-          <entry key="txt" value="74" />
+          <entry key="py" value="854" />
+          <entry key="txt" value="111" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="74" />
-          <entry key="Python" value="673" />
+          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="Python" value="854" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <state relative-caret-position="225">
+              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+              <folding>
+                <element signature="e#16#27#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -112,9 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" />
-        <option value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" />
-        <option value="$PROJECT_DIR$/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/1-multiples-of-3-and-5.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
@@ -163,6 +159,9 @@
         <option value="$PROJECT_DIR$/LeetCode/TwoSum.py" />
         <option value="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" />
         <option value="$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" />
       </list>
     </option>
   </component>
@@ -212,6 +211,19 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
+              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
+              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -247,7 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.LengthOfLongestSubstring">
+  <component name="RunManager" selected="Python.Minimum Swaps">
     <configuration name="Huffman Encoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -292,7 +304,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Molecule to atoms" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Minimum Swaps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,12 +312,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -314,7 +326,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="The Millionth Fibonacci" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="New Year Chaos" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,12 +334,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -359,19 +371,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.The Millionth Fibonacci" />
-      <item itemvalue="Python.Molecule to atoms" />
       <item itemvalue="Python.Huffman Encoding" />
       <item itemvalue="Python.TwoSum" />
       <item itemvalue="Python.LengthOfLongestSubstring" />
+      <item itemvalue="Python.New Year Chaos" />
+      <item itemvalue="Python.Minimum Swaps" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Minimum Swaps" />
+        <item itemvalue="Python.New Year Chaos" />
         <item itemvalue="Python.LengthOfLongestSubstring" />
         <item itemvalue="Python.TwoSum" />
         <item itemvalue="Python.Huffman Encoding" />
-        <item itemvalue="Python.Molecule to atoms" />
-        <item itemvalue="Python.The Millionth Fibonacci" />
       </list>
     </recent_temporary>
   </component>
@@ -575,19 +587,34 @@
       <option name="project" value="LOCAL" />
       <updated>1535682482684</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="finished 1 challenge">
+      <created>1536021045538</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1536021045538</updated>
+    </task>
+    <task id="LOCAL-00029" summary="finished New Year Chaos">
+      <created>1536022632067</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1536022632067</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="944" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="944" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21062271" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -620,7 +647,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="finished" />
     <MESSAGE value="3 challenges from Project Euler" />
     <MESSAGE value="3 more challenges from Project Euler" />
     <MESSAGE value="3 more challenges from Project Euler;&#10;style fixes" />
@@ -644,7 +670,9 @@
     <MESSAGE value="Two leetcode challenges" />
     <MESSAGE value="Finish longest_substring" />
     <MESSAGE value="Style changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Style changes" />
+    <MESSAGE value="finished 1 challenge" />
+    <MESSAGE value="finished New Year Chaos" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished New Year Chaos" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -806,6 +834,16 @@
           <line>8</line>
           <option name="timeStamp" value="73" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -820,34 +858,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="755">
@@ -1130,10 +1140,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py">
+    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="405">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -1141,6 +1151,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/python/3.7.0/Frameworks/Python.framework/Versions/3.7/lib/python3.7/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="677" selection-start-line="677" selection-end-line="677" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
