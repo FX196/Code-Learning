@@ -5,10 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Two leetcode challenges">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py" afterDir="false" />
-    </list>
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Style changes" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +20,7 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -33,36 +30,45 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="5" />
+          <entry key="py" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="673" />
-          <entry key="txt" value="32" />
+          <entry key="txt" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="32" />
+          <entry key="PLAIN_TEXT" value="74" />
           <entry key="Python" value="673" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="6" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -190,6 +196,11 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -197,13 +208,6 @@
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="Dynamic Programming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -557,19 +561,32 @@
       <option name="project" value="LOCAL" />
       <updated>1535603942278</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Finish longest_substring">
+      <created>1535682447672</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1535682447672</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Style changes">
+      <created>1535682482684</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1535682482684</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21062271" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21062271" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.3568075" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -625,7 +642,9 @@
     <MESSAGE value="some more challenges" />
     <MESSAGE value="usual" />
     <MESSAGE value="Two leetcode challenges" />
-    <option name="LAST_COMMIT_MESSAGE" value="Two leetcode challenges" />
+    <MESSAGE value="Finish longest_substring" />
+    <MESSAGE value="Style changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Style changes" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -819,13 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
@@ -1122,6 +1134,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
         </state>
       </provider>
     </entry>
