@@ -5,7 +5,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished Minimum Swaps" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished Two Strings">
+      <change afterPath="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +20,7 @@
     <SUITE FILE_PATH="coverage/Code_Learning$LengthOfLongestSubstring.coverage" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1536021968390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$New_Year_Chaos.coverage" NAME="New Year Chaos Coverage Results" MODIFIED="1536022414314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
     <SUITE FILE_PATH="coverage/Code_Learning$Minimum_Swaps.coverage" NAME="Minimum Swaps Coverage Results" MODIFIED="1536023762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
+    <SUITE FILE_PATH="coverage/Code_Learning$Sherlock_and_Anagrams.coverage" NAME="Sherlock and Anagrams Coverage Results" MODIFIED="1536130761988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Interview Preparation" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1501016600">
@@ -25,43 +29,52 @@
           <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="11" />
+          <entry key="py" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="854" />
-          <entry key="txt" value="126" />
+          <entry key="py" value="922" />
+          <entry key="txt" value="168" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="126" />
-          <entry key="Python" value="854" />
+          <entry key="PLAIN_TEXT" value="168" />
+          <entry key="Python" value="922" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="11" />
+          <entry key="Python" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="420">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -105,9 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ProjectEuler+/1-multiples-of-3-and-5.py" />
-        <option value="$PROJECT_DIR$/ProjectEuler+/2-even-fibonacci-numbers.py" />
-        <option value="$PROJECT_DIR$/ProjectEuler+/3-largest-prime-factor.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/4-largest-palindrome-product.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/5-smallest-multiple.py" />
         <option value="$PROJECT_DIR$/ProjectEuler+/6-sum-square-difference.py" />
@@ -156,6 +166,9 @@
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py" />
+        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" />
       </list>
     </option>
   </component>
@@ -178,7 +191,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,18 +201,7 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
@@ -212,18 +213,13 @@
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="HackerRank" type="462c0819:PsiDirectoryNode" />
-              <item name="Data Structures" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="Interview Preparation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -253,29 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Minimum Swaps">
-    <configuration name="Huffman Encoding" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CodeWars/3-kyu" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Sherlock and Anagrams">
     <configuration name="LengthOfLongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,6 +316,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Sherlock and Anagrams" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HackerRank/Interview Preparation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -365,19 +361,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Huffman Encoding" />
       <item itemvalue="Python.TwoSum" />
       <item itemvalue="Python.LengthOfLongestSubstring" />
       <item itemvalue="Python.New Year Chaos" />
       <item itemvalue="Python.Minimum Swaps" />
+      <item itemvalue="Python.Sherlock and Anagrams" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Sherlock and Anagrams" />
         <item itemvalue="Python.Minimum Swaps" />
         <item itemvalue="Python.New Year Chaos" />
         <item itemvalue="Python.LengthOfLongestSubstring" />
         <item itemvalue="Python.TwoSum" />
-        <item itemvalue="Python.Huffman Encoding" />
       </list>
     </recent_temporary>
   </component>
@@ -602,19 +598,33 @@
       <option name="project" value="LOCAL" />
       <updated>1536024171418</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="finished Hash Tables: Ransom Note">
+      <created>1536126993391</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1536126993391</updated>
+    </task>
+    <task id="LOCAL-00032" summary="finished Two Strings">
+      <created>1536128736247</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1536128736247</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21550672" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.3568075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -648,8 +658,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="3 more challenges from Project Euler" />
-    <MESSAGE value="3 more challenges from Project Euler;&#10;style fixes" />
     <MESSAGE value="2 more challenges from Project Euler;" />
     <MESSAGE value="style fixes" />
     <MESSAGE value="#10 from Project Euler" />
@@ -673,7 +681,9 @@
     <MESSAGE value="finished 1 challenge" />
     <MESSAGE value="finished New Year Chaos" />
     <MESSAGE value="finished Minimum Swaps" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished Minimum Swaps" />
+    <MESSAGE value="finished Hash Tables: Ransom Note" />
+    <MESSAGE value="finished Two Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Two Strings" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -840,6 +850,11 @@
           <line>4</line>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
@@ -854,27 +869,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="755">
-          <caret line="45" column="37" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1175,6 +1169,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="11" selection-end-column="14" />
         </state>
       </provider>
     </entry>
