@@ -1,6 +1,3 @@
-import math
-
-
 def sherlockAndAnagrams(s):
     substrings = {}
     for i in range(len(s)):
@@ -10,7 +7,7 @@ def sherlockAndAnagrams(s):
                 substrings[sub] = 0
             else:
                 substrings[sub] += 1
-    res = sum([math.factorial(x) if x > 0 else 0 for _, x in substrings.items()])
+    res = int(sum([(x + 1) * x / 2 for _, x in substrings.items()]))
     return res
 
 
