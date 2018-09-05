@@ -5,10 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished New Year Chaos">
-      <change afterPath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="finished Minimum Swaps" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +22,7 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="1" />
@@ -41,12 +38,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="854" />
-          <entry key="txt" value="111" />
+          <entry key="txt" value="126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="111" />
+          <entry key="PLAIN_TEXT" value="126" />
           <entry key="Python" value="854" />
         </counts>
       </usages-collector>
@@ -63,11 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-              <folding>
-                <element signature="e#16#27#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -601,7 +595,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536022632067</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="finished Minimum Swaps">
+      <created>1536024171418</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1536024171418</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -614,7 +615,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4495305" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -647,7 +648,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="3 challenges from Project Euler" />
     <MESSAGE value="3 more challenges from Project Euler" />
     <MESSAGE value="3 more challenges from Project Euler;&#10;style fixes" />
     <MESSAGE value="2 more challenges from Project Euler;" />
@@ -672,7 +672,8 @@
     <MESSAGE value="Style changes" />
     <MESSAGE value="finished 1 challenge" />
     <MESSAGE value="finished New Year Chaos" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished New Year Chaos" />
+    <MESSAGE value="finished Minimum Swaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished Minimum Swaps" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -838,11 +839,6 @@
           <url>file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py</url>
           <line>4</line>
           <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="75" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
@@ -1177,11 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="18" lean-forward="true" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-          <folding>
-            <element signature="e#16#27#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
