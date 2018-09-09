@@ -5,9 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #5 Leetcode">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #8 Leetcode" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +24,7 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="3" />
@@ -37,42 +35,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="28" />
+          <entry key="py" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="1008" />
-          <entry key="txt" value="289" />
+          <entry key="py" value="1010" />
+          <entry key="txt" value="291" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="297" />
-          <entry key="Python" value="1008" />
+          <entry key="PLAIN_TEXT" value="299" />
+          <entry key="Python" value="1010" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="28" />
+          <entry key="Python" value="30" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -111,8 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" />
-        <option value="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
         <option value="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" />
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" />
@@ -162,6 +148,8 @@
         <option value="$PROJECT_DIR$/LeetCode/14-Longest Common Prefix.py" />
         <option value="$PROJECT_DIR$/LeetCode/26-Remove Duplicates from Sorted Array.py" />
         <option value="$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py" />
+        <option value="$PROJECT_DIR$/LeetCode/6-Zigzag Conversion.py" />
+        <option value="$PROJECT_DIR$/LeetCode/8-String to Integer.py" />
       </list>
     </option>
   </component>
@@ -171,7 +159,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="944" />
@@ -697,7 +685,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536387339834</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Finished #6 Leetcode">
+      <created>1536387897586</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1536387897586</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Finished #8 Leetcode">
+      <created>1536388813407</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1536388813407</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -711,14 +713,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="944" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22283272" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.3568075" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -752,8 +753,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="finished kata" />
-    <MESSAGE value="reformat" />
     <MESSAGE value="reformat and finish reverse polish notation calculator" />
     <MESSAGE value="add katas" />
     <MESSAGE value="multiple challenges" />
@@ -777,7 +776,9 @@
     <MESSAGE value="Finished #14 Leetcode" />
     <MESSAGE value="Finished #26 Leetcode" />
     <MESSAGE value="Finished #5 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #5 Leetcode" />
+    <MESSAGE value="Finished #6 Leetcode" />
+    <MESSAGE value="Finished #8 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #8 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -968,14 +969,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/venv/ML/Lib/codecs.py" />
     <entry file="file://$PROJECT_DIR$/CodeWars/6-kyu/Reverse or rotate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1301,6 +1294,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="14" column="34" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/8-String to Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/6-Zigzag Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
         </state>
       </provider>
     </entry>
