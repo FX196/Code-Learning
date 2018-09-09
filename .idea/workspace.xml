@@ -5,7 +5,10 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #8 Leetcode" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Code_Learning$10_Regular_Expression_Matching.coverage" NAME="10-Regular Expression Matching Coverage Results" MODIFIED="1536519923650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1535601367429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$LengthOfLongestSubstring.coverage" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1536021968390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$5_Longest_Palindromic_Substring.coverage" NAME="5-Longest Palindromic Substring Coverage Results" MODIFIED="1536387230971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
@@ -25,42 +29,71 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="9" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.3" value="3" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="30" />
+          <entry key="py" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="1010" />
-          <entry key="txt" value="291" />
+          <entry key="py" value="1409" />
+          <entry key="txt" value="353" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="299" />
-          <entry key="Python" value="1010" />
+          <entry key="PLAIN_TEXT" value="361" />
+          <entry key="Python" value="1409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="30" />
+          <entry key="Python" value="32" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/11-Container With Most Water.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/12-Integer to Roman.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="72" lean-forward="true" selection-end-line="10" selection-end-column="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -99,9 +132,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/5-kyu/product of consecutive fib numbers.py" />
-        <option value="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" />
-        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" />
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" />
         <option value="$PROJECT_DIR$/CodeWars/6-kyu/Multiples of 3 or 5.py" />
         <option value="$PROJECT_DIR$/CodeWars/7-kyu/Printer error.py" />
@@ -150,6 +180,9 @@
         <option value="$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py" />
         <option value="$PROJECT_DIR$/LeetCode/6-Zigzag Conversion.py" />
         <option value="$PROJECT_DIR$/LeetCode/8-String to Integer.py" />
+        <option value="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" />
+        <option value="$PROJECT_DIR$/LeetCode/11-Container With Most Water.py" />
+        <option value="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" />
       </list>
     </option>
   </component>
@@ -224,7 +257,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5-Longest Palindromic Substring">
+  <component name="RunManager" selected="Python.10-Regular Expression Matching">
+    <configuration name="10-Regular Expression Matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Code Learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="5-Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,28 +294,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="LengthOfLongestSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/3-LengthOfLongestSubstring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +369,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.LengthOfLongestSubstring" />
       <item itemvalue="Python.New Year Chaos" />
       <item itemvalue="Python.Minimum Swaps" />
       <item itemvalue="Python.Sherlock and Anagrams" />
       <item itemvalue="Python.5-Longest Palindromic Substring" />
+      <item itemvalue="Python.10-Regular Expression Matching" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10-Regular Expression Matching" />
         <item itemvalue="Python.5-Longest Palindromic Substring" />
         <item itemvalue="Python.Sherlock and Anagrams" />
         <item itemvalue="Python.Minimum Swaps" />
         <item itemvalue="Python.New Year Chaos" />
-        <item itemvalue="Python.LengthOfLongestSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -362,13 +395,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00001" summary="finished">
-      <created>1519151480488</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1519151480488</updated>
     </task>
     <task id="LOCAL-00002" summary="3 challenges from Project Euler">
       <created>1520409155434</created>
@@ -699,7 +725,21 @@
       <option name="project" value="LOCAL" />
       <updated>1536388813407</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Start #10 Leetcode">
+      <created>1536519453654</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1536519453655</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <created>1536520667390</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1536520667391</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -712,14 +752,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="944" extended-state="0" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22283272" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22555012" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" weight="0.3568075" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49791667" visible="true" weight="0.35612243" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4495305" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -732,6 +773,7 @@
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.31113425" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Scheme.REPL" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -753,8 +795,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="reformat and finish reverse polish notation calculator" />
-    <MESSAGE value="add katas" />
     <MESSAGE value="multiple challenges" />
     <MESSAGE value="one and a half challenges" />
     <MESSAGE value="some more challenges" />
@@ -778,7 +818,9 @@
     <MESSAGE value="Finished #5 Leetcode" />
     <MESSAGE value="Finished #6 Leetcode" />
     <MESSAGE value="Finished #8 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #8 Leetcode" />
+    <MESSAGE value="Start #10 Leetcode" />
+    <MESSAGE value="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -969,27 +1011,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeWars/6-kyu/Reverse or rotate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/venv/ML/Lib/site.py" />
     <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1308,6 +1329,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/11-Container With Most Water.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/12-Integer to Roman.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="72" lean-forward="true" selection-end-line="10" selection-end-column="76" />
         </state>
       </provider>
     </entry>
