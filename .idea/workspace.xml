@@ -5,8 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" afterDir="false" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #12 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/13-Roman to Integer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,26 +40,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="32" />
+          <entry key="py" value="33" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="1409" />
-          <entry key="txt" value="353" />
+          <entry key="py" value="1430" />
+          <entry key="txt" value="354" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="361" />
-          <entry key="Python" value="1409" />
+          <entry key="PLAIN_TEXT" value="362" />
+          <entry key="Python" value="1430" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="32" />
+          <entry key="Python" value="33" />
         </counts>
       </usages-collector>
     </session>
@@ -84,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/12-Integer to Roman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="72" lean-forward="true" selection-end-line="10" selection-end-column="76" />
+            <state relative-caret-position="150">
+              <caret line="10" column="108" selection-start-line="10" selection-start-column="108" selection-end-line="10" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/13-Roman to Integer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="17" lean-forward="true" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -107,12 +116,15 @@
       <find>sum</find>
       <find>l</find>
       <find>len(scores)</find>
+      <find>}</find>
+      <find>result</find>
     </findStrings>
     <replaceStrings>
       <replace>total</replace>
       <replace>maximum</replace>
-      <replace>res</replace>
       <replace>n</replace>
+      <replace>]</replace>
+      <replace>res</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -132,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" />
         <option value="$PROJECT_DIR$/CodeWars/6-kyu/Multiples of 3 or 5.py" />
         <option value="$PROJECT_DIR$/CodeWars/7-kyu/Printer error.py" />
         <option value="$PROJECT_DIR$/CodeWars/6-kyu/Reverse or rotate.py" />
@@ -183,6 +194,7 @@
         <option value="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" />
         <option value="$PROJECT_DIR$/LeetCode/11-Container With Most Water.py" />
         <option value="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" />
+        <option value="$PROJECT_DIR$/LeetCode/13-Roman to Integer.py" />
       </list>
     </option>
   </component>
@@ -395,13 +407,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00002" summary="3 challenges from Project Euler">
-      <created>1520409155434</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1520409155434</updated>
     </task>
     <task id="LOCAL-00003" summary="3 more challenges from Project Euler">
       <created>1520428664107</created>
@@ -739,7 +744,14 @@
       <option name="project" value="LOCAL" />
       <updated>1536520667391</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Finished #12 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <created>1536520981574</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1536520981574</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -795,7 +807,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="multiple challenges" />
     <MESSAGE value="one and a half challenges" />
     <MESSAGE value="some more challenges" />
     <MESSAGE value="usual" />
@@ -820,7 +831,8 @@
     <MESSAGE value="Finished #8 Leetcode" />
     <MESSAGE value="Start #10 Leetcode" />
     <MESSAGE value="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode" />
+    <MESSAGE value="Finished #12 Leetcode;&#10;Ongoing: #10 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #12 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1011,7 +1023,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/venv/ML/Lib/site.py" />
     <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/sudoku.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1348,8 +1359,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/12-Integer to Roman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="72" lean-forward="true" selection-end-line="10" selection-end-column="76" />
+        <state relative-caret-position="150">
+          <caret line="10" column="108" selection-start-line="10" selection-start-column="108" selection-end-line="10" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/13-Roman to Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="17" lean-forward="true" selection-end-line="23" />
         </state>
       </provider>
     </entry>
