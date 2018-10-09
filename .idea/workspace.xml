@@ -5,7 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #205 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #540 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,55 +27,45 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="20" />
+          <entry key="project.closed" value="21" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.3" value="7" />
-          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.4" value="5" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="20" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="52" />
+          <entry key="py" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="2112" />
-          <entry key="txt" value="408" />
+          <entry key="txt" value="414" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="416" />
+          <entry key="PLAIN_TEXT" value="422" />
           <entry key="Python" value="2112" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="52" />
+          <entry key="Python" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/205-Isomophic Strings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py" />
         <option value="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" />
         <option value="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" />
@@ -165,12 +154,13 @@
         <option value="$PROJECT_DIR$/LeetCode/274-H Index.py" />
         <option value="$PROJECT_DIR$/LeetCode/242-Valid Anagram.py" />
         <option value="$PROJECT_DIR$/LeetCode/23-Merge k Sorted Lists.py" />
-        <option value="$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py" />
         <option value="$PROJECT_DIR$/LeetCode/657-Robot Return to Origin.py" />
         <option value="$PROJECT_DIR$/LeetCode/41-Find Missing Positive.py" />
         <option value="$PROJECT_DIR$/LeetCode/485-Max Consecutive Ones.py" />
         <option value="$PROJECT_DIR$/LeetCode/557-Reverse Words in a String III.py" />
         <option value="$PROJECT_DIR$/LeetCode/205-Isomophic Strings.py" />
+        <option value="$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py" />
+        <option value="$PROJECT_DIR$/LeetCode/540-Single Element in Sorted Array.py" />
       </list>
     </option>
   </component>
@@ -193,7 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,6 +199,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,20 +368,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00019" summary="add katas">
-      <created>1521984736167</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1521984736167</updated>
-    </task>
-    <task id="LOCAL-00020" summary="multiple challenges">
-      <created>1523273277436</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1523273277436</updated>
     </task>
     <task id="LOCAL-00021" summary="one and a half challenges">
       <created>1523275697585</created>
@@ -722,7 +698,21 @@
       <option name="project" value="LOCAL" />
       <updated>1539020013011</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Finished #19 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <created>1539104600235</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1539104600235</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Finished #540 Leetcode;&#10;Ongoing: #10 Leetcode">
+      <created>1539104790605</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1539104790605</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -736,9 +726,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25611246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591687" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -779,8 +768,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #4 Leetcode" />
-    <MESSAGE value="Finished #9 Leetcode" />
     <MESSAGE value="Finished 1 challenge" />
     <MESSAGE value="Finished #14 Leetcode" />
     <MESSAGE value="Finished #26 Leetcode" />
@@ -804,7 +791,9 @@
     <MESSAGE value="Finished #485 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #557 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #205 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #205 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
+    <MESSAGE value="Finished #19 Leetcode;&#10;Ongoing: #10 Leetcode" />
+    <MESSAGE value="Finished #540 Leetcode;&#10;Ongoing: #10 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #540 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1000,13 +989,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
@@ -1302,13 +1284,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/657-Robot Return to Origin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1344,10 +1319,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/540-Single Element in Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/205-Isomophic Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
