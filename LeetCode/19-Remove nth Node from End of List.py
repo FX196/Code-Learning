@@ -11,19 +11,12 @@ class Solution:
         :type n: int
         :rtype: ListNode
         """
-        fast = head
-        slow = head
-        while n:
+        dummy = ListNode(None)
+        dummy.next = head
+        slow = fast = dummy
+        for i in range(n):
             fast = fast.next
-            n -= 1
-        while fast and fast.next:
+        while fast.next:
             fast, slow = fast.next, slow.next
-        if slow.next:
-            if not slow == head:
-                slow.next = slow.next.next
-                return head
-            else:
-                return head.next
-        return None
-
-    # TODO: Edge Cases
+        slow.next = slow.next.next
+        return dummy.next
