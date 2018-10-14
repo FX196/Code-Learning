@@ -5,7 +5,9 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #342 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,45 +29,55 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="26" />
+          <entry key="project.closed" value="27" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="8" />
+          <entry key="project.open.time.3" value="9" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="61" />
+          <entry key="py" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="3189" />
-          <entry key="txt" value="428" />
+          <entry key="txt" value="431" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="436" />
+          <entry key="PLAIN_TEXT" value="439" />
           <entry key="Python" value="3189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="61" />
+          <entry key="Python" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/179-Largest Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -110,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" />
         <option value="$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py" />
         <option value="$PROJECT_DIR$/CodeWars/6-kyu/Exponential Comparison.py" />
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Explosive Sum.py" />
@@ -161,6 +172,7 @@
         <option value="$PROJECT_DIR$/LeetCode/34-Find First and Last Position of Element in Sorted Array.py" />
         <option value="$PROJECT_DIR$/LeetCode/300-Longest Increasing Subsequence.py" />
         <option value="$PROJECT_DIR$/LeetCode/342-Power of Four.py" />
+        <option value="$PROJECT_DIR$/LeetCode/179-Largest Number.py" />
       </list>
     </option>
   </component>
@@ -368,13 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00024" summary="usual">
-      <created>1533419969451</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1533419969451</updated>
     </task>
     <task id="LOCAL-00025" summary="Two leetcode challenges">
       <created>1535603942278</created>
@@ -712,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539317733845</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode">
+      <created>1539406745179</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1539406745180</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -726,8 +738,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27689487" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28056234" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -768,7 +781,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #5 Leetcode" />
     <MESSAGE value="Finished #6 Leetcode" />
     <MESSAGE value="Finished #8 Leetcode" />
     <MESSAGE value="Start #10 Leetcode" />
@@ -793,7 +805,8 @@
     <MESSAGE value="Finished #814 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <MESSAGE value="Finished #34 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <MESSAGE value="Finished #342 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #342 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
+    <MESSAGE value="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -989,13 +1002,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/2-AddTwoNumbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -1337,6 +1343,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/179-Largest Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
