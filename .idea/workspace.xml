@@ -5,7 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #102 Leetcode;&#10;Ongoing: #10,300 Leetcode">
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #796 Leetcode;&#10;Ongoing: #10,300 Leetcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,45 +29,55 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="29" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.open.time.3" value="10" />
+          <entry key="project.open.time.3" value="11" />
           <entry key="project.open.time.4" value="7" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="28" />
+          <entry key="project.opened" value="29" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="63" />
+          <entry key="py" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="3189" />
-          <entry key="txt" value="434" />
+          <entry key="txt" value="439" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="442" />
+          <entry key="PLAIN_TEXT" value="447" />
           <entry key="Python" value="3189" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="63" />
+          <entry key="Python" value="64" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/796-Rotate String.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/CodeWars/6-kyu/Exponential Comparison.py" />
         <option value="$PROJECT_DIR$/CodeWars/4-kyu/Explosive Sum.py" />
         <option value="$PROJECT_DIR$/LeetCode/AddTwoNumbers.py" />
         <option value="$PROJECT_DIR$/LeetCode/TwoSum.py" />
@@ -163,6 +172,7 @@
         <option value="$PROJECT_DIR$/LeetCode/342-Power of Four.py" />
         <option value="$PROJECT_DIR$/LeetCode/179-Largest Number.py" />
         <option value="$PROJECT_DIR$/LeetCode/102-Binary Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/LeetCode/796-Rotate String.py" />
       </list>
     </option>
   </component>
@@ -370,13 +380,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00026" summary="Finish longest_substring">
-      <created>1535682447672</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1535682447672</updated>
     </task>
     <task id="LOCAL-00027" summary="Style changes">
       <created>1535682482684</created>
@@ -714,7 +717,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539497698630</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="Finished #796 Leetcode;&#10;Ongoing: #10,300 Leetcode">
+      <created>1539557798818</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1539557798819</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -728,8 +738,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28422982" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28789732" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -770,7 +781,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #8 Leetcode" />
     <MESSAGE value="Start #10 Leetcode" />
     <MESSAGE value="Finished #11 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <MESSAGE value="Finished #12 Leetcode;&#10;Ongoing: #10 Leetcode" />
@@ -795,7 +805,8 @@
     <MESSAGE value="Finished #342 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
     <MESSAGE value="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
     <MESSAGE value="Finished #102 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #102 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
+    <MESSAGE value="Finished #796 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #796 Leetcode;&#10;Ongoing: #10,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -991,13 +1002,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/3-LengthOfLongestSubstring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1339,6 +1343,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/796-Rotate String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
