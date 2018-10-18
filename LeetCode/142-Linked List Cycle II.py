@@ -21,7 +21,7 @@ class Solution(object):
                     second_slow = second_slow.next
                 return slow
         return None
-
+    
 
 """
 Say the non-cycle length is L, and slow has traveled L + C when it meets with fast.
