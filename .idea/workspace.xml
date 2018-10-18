@@ -5,7 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #600 Leetcode&#10;Ongoing: #10,30,300 Leetcode">
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #462 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,50 +30,50 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="33" />
+          <entry key="project.closed" value="34" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="5" />
+          <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="12" />
-          <entry key="project.open.time.4" value="9" />
+          <entry key="project.open.time.4" value="10" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="68" />
+          <entry key="py" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="3275" />
-          <entry key="txt" value="499" />
+          <entry key="py" value="3700" />
+          <entry key="txt" value="509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="507" />
-          <entry key="Python" value="3275" />
+          <entry key="PLAIN_TEXT" value="517" />
+          <entry key="Python" value="3700" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="68" />
+          <entry key="Python" value="70" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py">
+        <entry file="file://$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="450">
+              <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -122,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/LengthOfLongestSubstring.py" />
-        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" />
@@ -173,6 +172,8 @@
         <option value="$PROJECT_DIR$/LeetCode/30-Substring with Concatenation of All Words.py" />
         <option value="$PROJECT_DIR$/LeetCode/50-Pow(x,n).py" />
         <option value="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" />
+        <option value="$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" />
       </list>
     </option>
   </component>
@@ -205,7 +206,7 @@
             <path>
               <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -380,13 +381,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00031" summary="finished Hash Tables: Ransom Note">
-      <created>1536126993391</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1536126993391</updated>
     </task>
     <task id="LOCAL-00032" summary="finished Two Strings">
       <created>1536128736247</created>
@@ -724,7 +718,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539812537307</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Finished #462 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <created>1539846610204</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1539846610205</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -738,8 +739,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30256724" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31051344" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -780,7 +782,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #15 Leetcode;&#10;Ongoing: #10 Leetcode" />
     <MESSAGE value="Finished None;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #17 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #21 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
@@ -805,7 +806,8 @@
     <MESSAGE value="Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #50 Leetcode&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #600 Leetcode&#10;Ongoing: #10,30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #600 Leetcode&#10;Ongoing: #10,30,300 Leetcode" />
+    <MESSAGE value="Finished #462 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #462 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1001,20 +1003,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1345,10 +1333,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
         </state>
       </provider>
     </entry>
