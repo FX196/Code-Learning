@@ -5,7 +5,9 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #142 Leetcode Medium (fix number)&#10;Ongoing: #10,30,300 Leetcode" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,55 +29,45 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="12" />
-          <entry key="project.open.time.4" value="10" />
+          <entry key="project.open.time.4" value="11" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="35" />
+          <entry key="project.opened" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="70" />
+          <entry key="py" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="3817" />
-          <entry key="txt" value="526" />
+          <entry key="txt" value="529" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="534" />
+          <entry key="PLAIN_TEXT" value="537" />
           <entry key="Python" value="3817" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="70" />
+          <entry key="Python" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -120,7 +112,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" />
         <option value="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py" />
@@ -171,6 +162,7 @@
         <option value="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" />
         <option value="$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py" />
         <option value="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/208-Prefix Tree.py" />
       </list>
     </option>
   </component>
@@ -378,13 +370,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00034" summary="Finished Sherlock and Anagrams">
-      <created>1536131458538</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1536131458538</updated>
     </task>
     <task id="LOCAL-00035" summary="Finished 1 challenge">
       <created>1536212803004</created>
@@ -722,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539883407608</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <created>1539919859993</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1539919859994</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -736,9 +728,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31051344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3147922" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -779,7 +770,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #24 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #476 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #242 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #23 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
@@ -804,7 +794,8 @@
     <MESSAGE value="Finished #143 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #142 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #142 Leetcode Medium (fix number)&#10;Ongoing: #10,30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #142 Leetcode Medium (fix number)&#10;Ongoing: #10,30,300 Leetcode" />
+    <MESSAGE value="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1000,13 +991,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CodeWars/6-kyu/Exponential Comparison.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1347,7 +1331,14 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/208-Prefix Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
