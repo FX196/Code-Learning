@@ -5,8 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #398 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/46-Permutations.py" afterDir="false" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,50 +30,50 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="36" />
+          <entry key="project.closed" value="38" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="13" />
-          <entry key="project.open.time.4" value="11" />
+          <entry key="project.open.time.4" value="12" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="37" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="73" />
+          <entry key="py" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="3817" />
-          <entry key="txt" value="532" />
+          <entry key="py" value="4309" />
+          <entry key="txt" value="534" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="540" />
-          <entry key="Python" value="3817" />
+          <entry key="PLAIN_TEXT" value="542" />
+          <entry key="Python" value="4309" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="73" />
+          <entry key="Python" value="74" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/398-Random Pick Index.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="345">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -81,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/46-Permutations.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+            <state relative-caret-position="195">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -135,7 +144,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py" />
         <option value="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" />
         <option value="$PROJECT_DIR$/CodeWars/6-kyu/Write Number in Expanded Form.py" />
         <option value="$PROJECT_DIR$/CodeWars/5-kyu/Valid Parentheses.py" />
@@ -186,6 +194,7 @@
         <option value="$PROJECT_DIR$/LeetCode/208-Prefix Tree.py" />
         <option value="$PROJECT_DIR$/LeetCode/398-Random Pick Index.py" />
         <option value="$PROJECT_DIR$/LeetCode/46-Permutations.py" />
+        <option value="$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py" />
       </list>
     </option>
   </component>
@@ -393,13 +402,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Finished 1 challenge">
-      <created>1536213191024</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1536213191024</updated>
     </task>
     <task id="LOCAL-00037" summary="Finished 1 challenge">
       <created>1536213768130</created>
@@ -737,7 +739,14 @@
       <option name="project" value="LOCAL" />
       <updated>1539982063029</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
+      <created>1539982929872</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1539982929872</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -753,7 +762,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3190709" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32334962" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -794,7 +803,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #242 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #23 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #657 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #41 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
@@ -819,7 +827,8 @@
     <MESSAGE value="Finished #142 Leetcode Medium (fix number)&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #398 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #398 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
+    <MESSAGE value="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1015,13 +1024,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CodeWars/6-kyu/Write Number in Expanded Form.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1354,8 +1356,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/398-Random Pick Index.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="345">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>
@@ -1364,8 +1366,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/46-Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
