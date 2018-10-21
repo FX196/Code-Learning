@@ -5,9 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #917, 919 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py" afterDir="false" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #917 Easy, 919 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,14 +30,14 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="41" />
+          <entry key="project.closed" value="42" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="6" />
           <entry key="project.open.time.3" value="15" />
-          <entry key="project.open.time.4" value="13" />
+          <entry key="project.open.time.4" value="14" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -51,12 +49,12 @@
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="4375" />
-          <entry key="txt" value="545" />
+          <entry key="txt" value="558" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="553" />
+          <entry key="PLAIN_TEXT" value="566" />
           <entry key="Python" value="4375" />
         </counts>
       </usages-collector>
@@ -70,12 +68,12 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -83,8 +81,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -392,13 +390,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Finished 1 challenge; Filename Changes">
-      <created>1536215483665</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1536215483665</updated>
     </task>
     <task id="LOCAL-00040" summary="Finished #4 Leetcode">
       <created>1536215692323</created>
@@ -736,7 +727,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540058934344</updated>
     </task>
-    <option name="localTasksCounter" value="88" />
+    <task id="LOCAL-00088" summary="Finished #917 Easy, 919 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
+      <created>1540151489109</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1540151489109</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -752,7 +750,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3361858" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.34046456" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -793,7 +791,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #41 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #485 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #557 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
     <MESSAGE value="Finished #205 Leetcode;&#10;Ongoing: #10, 19 Leetcode" />
@@ -818,7 +815,8 @@
     <MESSAGE value="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #560 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
     <MESSAGE value="Finished #917, 919 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #917, 919 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode" />
+    <MESSAGE value="Finished #917 Easy, 919 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #917 Easy, 919 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1325,9 +1323,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1362,14 +1357,14 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
