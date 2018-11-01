@@ -26,5 +26,5 @@ class Solution:
 
 
 if __name__ == "__main__":
-    result = Solution.threeSum(Solution, [0, 0, 0])
+    result = Solution().threeSum([0, 0, 0])
     print(result)
