@@ -1,3 +1,4 @@
+from collections import defaultdict
 class Solution:
     def customSortString(self, S, T):
         """
@@ -5,4 +6,11 @@ class Solution:
         :type T: str
         :rtype: str
         """
-        return "".join(sorted(list(T), key=lambda x: S.find(x)))
+        d = defaultdict(int)
+        for ind, x in enumerate(S):
+            d[x] = ind
+        return "".join(sorted(list(T), key=lambda x: d[x]))
+
+    """
+    speed of using defualtdict and find depends on the length of S
+    """
