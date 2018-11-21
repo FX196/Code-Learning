@@ -5,9 +5,8 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #441 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <change afterPath="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,26 +45,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="123" />
+          <entry key="py" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="6220" />
-          <entry key="txt" value="748" />
+          <entry key="txt" value="776" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="756" />
+          <entry key="PLAIN_TEXT" value="784" />
           <entry key="Python" value="6220" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="123" />
+          <entry key="Python" value="124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -91,13 +90,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="135">
+              <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -150,7 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/342-Power of Four.py" />
         <option value="$PROJECT_DIR$/LeetCode/179-Largest Number.py" />
         <option value="$PROJECT_DIR$/LeetCode/102-Binary Tree Level Order Traversal.py" />
         <option value="$PROJECT_DIR$/LeetCode/796-Rotate String.py" />
@@ -201,6 +204,7 @@
         <option value="$PROJECT_DIR$/LeetCode/942-DI String Match.py" />
         <option value="$PROJECT_DIR$/LeetCode/441-Arranging Coins.py" />
         <option value="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" />
+        <option value="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" />
       </list>
     </option>
   </component>
@@ -402,13 +406,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00072" summary="Finished #342 Leetcode;&#10;Ongoing: #10,300 Leetcode">
-      <created>1539317733845</created>
-      <option name="number" value="00072" />
-      <option name="presentableId" value="LOCAL-00072" />
-      <option name="project" value="LOCAL" />
-      <updated>1539317733845</updated>
     </task>
     <task id="LOCAL-00073" summary="Finished #179 Leetcode;&#10;Ongoing: #10,300 Leetcode">
       <created>1539406745179</created>
@@ -746,7 +743,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542696360139</updated>
     </task>
-    <option name="localTasksCounter" value="121" />
+    <task id="LOCAL-00121" summary="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode">
+      <created>1542761401374</created>
+      <option name="number" value="00121" />
+      <option name="presentableId" value="LOCAL-00121" />
+      <option name="project" value="LOCAL" />
+      <updated>1542761401375</updated>
+    </task>
+    <option name="localTasksCounter" value="122" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -762,20 +766,20 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22738387" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22738387" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49755502" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49755502" weight="0.3989796" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4489796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.502445" side_tool="true" visible="true" weight="0.3989796" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32244897" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50061125" side_tool="true" visible="true" weight="0.32244897" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49938875" visible="true" weight="0.32244897" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.31113425" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -803,7 +807,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #10 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #78 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #83 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #82 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
@@ -828,7 +831,8 @@
     <MESSAGE value="Finished #841 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #942 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #441 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #441 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <MESSAGE value="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1024,13 +1028,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/50-Pow(x,n).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -1376,10 +1373,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="135">
+          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
