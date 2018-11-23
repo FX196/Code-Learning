@@ -5,7 +5,11 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
+      <change afterPath="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +18,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Code_Learning$930_Binary_Subarrays_With_Sum.coverage" NAME="930-Binary Subarrays With Sum Coverage Results" MODIFIED="1541097956907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$51_N_Queens.coverage" NAME="51-N-Queens Coverage Results" MODIFIED="1542946838679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$Common_Child.coverage" NAME="Common Child Coverage Results" MODIFIED="1536707814049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Algorithms/Strings" />
     <SUITE FILE_PATH="coverage/Code_Learning$New_Year_Chaos.coverage" NAME="New Year Chaos Coverage Results" MODIFIED="1536022414314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
     <SUITE FILE_PATH="coverage/Code_Learning$Minimum_Swaps.coverage" NAME="Minimum Swaps Coverage Results" MODIFIED="1536023762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
@@ -35,46 +40,77 @@
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="13" />
-          <entry key="project.open.time.3" value="32" />
+          <entry key="project.open.time.3" value="33" />
           <entry key="project.open.time.4" value="25" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="77" />
+          <entry key="project.opened" value="78" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="125" />
+          <entry key="py" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="6220" />
-          <entry key="txt" value="791" />
+          <entry key="py" value="6921" />
+          <entry key="txt" value="806" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="799" />
-          <entry key="Python" value="6220" />
+          <entry key="PLAIN_TEXT" value="814" />
+          <entry key="Python" value="6921" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="125" />
+          <entry key="Python" value="128" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/137-Single Number II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/51-N-Queens.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1542947334379" expanded="true" signature="1000:1039" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -129,9 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/102-Binary Tree Level Order Traversal.py" />
-        <option value="$PROJECT_DIR$/LeetCode/796-Rotate String.py" />
-        <option value="$PROJECT_DIR$/CodeWars/6-kyu/Bit Counting.py" />
         <option value="$PROJECT_DIR$/LeetCode/30-Substring with Concatenation of All Words.py" />
         <option value="$PROJECT_DIR$/LeetCode/50-Pow(x,n).py" />
         <option value="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" />
@@ -180,6 +213,9 @@
         <option value="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" />
         <option value="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" />
         <option value="$PROJECT_DIR$/LeetCode/137-Single Number II.py" />
+        <option value="$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py" />
+        <option value="$PROJECT_DIR$/LeetCode/51-N-Queens.py" />
+        <option value="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" />
       </list>
     </option>
   </component>
@@ -248,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Base Arithmetic">
+  <component name="RunManager" selected="Python.51-N-Queens">
     <configuration name="10-Regular Expression Matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="605-Can Place Flowers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="51-N-Queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Code Learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -306,7 +342,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/605-Can Place Flowers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/51-N-Queens.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -361,18 +397,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.10-Regular Expression Matching" />
-      <item itemvalue="Python.605-Can Place Flowers" />
       <item itemvalue="Python.930-Binary Subarrays With Sum" />
       <item itemvalue="Python.15-3 Sum" />
       <item itemvalue="Python.Base Arithmetic" />
+      <item itemvalue="Python.51-N-Queens" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.51-N-Queens" />
         <item itemvalue="Python.Base Arithmetic" />
         <item itemvalue="Python.15-3 Sum" />
         <item itemvalue="Python.930-Binary Subarrays With Sum" />
         <item itemvalue="Python.10-Regular Expression Matching" />
-        <item itemvalue="Python.605-Can Place Flowers" />
       </list>
     </recent_temporary>
   </component>
@@ -386,20 +422,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Finished #796 Leetcode;&#10;Ongoing: #10,300 Leetcode">
-      <created>1539557798818</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1539557798819</updated>
-    </task>
-    <task id="LOCAL-00076" summary="Finished Bit Counting 6-kyu Codewars;&#10;Ongoing: #10,300 Leetcode">
-      <created>1539664025869</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1539664025871</updated>
     </task>
     <task id="LOCAL-00077" summary="Ongoing: #10,30,300 Leetcode">
       <created>1539676008912</created>
@@ -730,7 +752,21 @@
       <option name="project" value="LOCAL" />
       <updated>1542826565619</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="Finished #203 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
+      <created>1542928084424</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1542928084424</updated>
+    </task>
+    <task id="LOCAL-00125" summary="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
+      <created>1542947125413</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1542947125413</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -746,19 +782,19 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2304401" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23349634" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49755502" weight="0.3989796" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4489796" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49572128" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987775" weight="0.4489796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959184" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="9" sideWeight="0.50061125" side_tool="true" visible="true" weight="0.32244897" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5042787" side_tool="true" visible="true" weight="0.3989796" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49938875" visible="true" weight="0.32244897" />
       <window_info anchor="bottom" id="Python Console" order="11" weight="0.32959184" />
       <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.31113425" />
@@ -787,8 +823,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #82 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #217 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #717 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #929 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #930 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
@@ -812,7 +846,9 @@
     <MESSAGE value="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #116 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <MESSAGE value="Finished #203 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <MESSAGE value="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1008,27 +1044,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/208-Prefix Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/398-Random Pick Index.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/917-Reverse Only Letters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -1361,7 +1376,32 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/137-Single Number II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/51-N-Queens.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1542947334379" expanded="true" signature="1000:1039" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
         </state>
       </provider>
     </entry>
