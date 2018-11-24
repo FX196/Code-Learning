@@ -5,11 +5,7 @@
     <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <change afterPath="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" afterDir="false" />
-    </list>
+    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +32,7 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="77" />
+          <entry key="project.closed" value="78" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="13" />
@@ -55,12 +51,12 @@
         <counts>
           <entry key="dummy" value="8" />
           <entry key="py" value="6921" />
-          <entry key="txt" value="806" />
+          <entry key="txt" value="807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="814" />
+          <entry key="PLAIN_TEXT" value="815" />
           <entry key="Python" value="6921" />
         </counts>
       </usages-collector>
@@ -99,8 +95,7 @@
             <state relative-caret-position="165">
               <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
-                <element signature="e#0#21#0" expanded="true" />
-                <marker date="1542947334379" expanded="true" signature="1000:1039" ph="..." />
+                <marker date="1542947785418" expanded="true" signature="1000:1039" ph="..." />
               </folding>
             </state>
           </provider>
@@ -109,8 +104,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -422,13 +417,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515418897815</updated>
-    </task>
-    <task id="LOCAL-00077" summary="Ongoing: #10,30,300 Leetcode">
-      <created>1539676008912</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1539676008915</updated>
     </task>
     <task id="LOCAL-00078" summary="Finished #50 Leetcode&#10;Ongoing: #10,30,300 Leetcode">
       <created>1539737603872</created>
@@ -766,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542947125413</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
+      <created>1542947786298</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1542947786298</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TodoView" selected-index="4">
@@ -787,7 +782,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49572128" visible="true" weight="0.3989796" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49572128" weight="0.3989796" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987775" weight="0.4489796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -823,7 +818,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
-    <MESSAGE value="Finished #717 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #929 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #930 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #287 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
@@ -848,7 +842,8 @@
     <MESSAGE value="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #203 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <MESSAGE value="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <MESSAGE value="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -1392,16 +1387,15 @@
         <state relative-caret-position="165">
           <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
-            <marker date="1542947334379" expanded="true" signature="1000:1039" ph="..." />
+            <marker date="1542947785418" expanded="true" signature="1000:1039" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
