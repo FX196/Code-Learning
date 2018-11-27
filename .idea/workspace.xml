@@ -2,175 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0836470-e79c-4bdf-b27d-bd5db3c40e38" name="Default Changelist" comment="reformat project to multi-language project">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/LeetCode/Two_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Code Learning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Bloomberg CodeCon/Base Arithmetic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Finding an appointment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Huffman Encoding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Molecule to atoms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/The Millionth Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/sudoku.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Explosive Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Explosive Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Longest pyramid slide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Range Extraction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Reverse polish notation calclator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Vigenere Cipher Helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Is my friend cheating.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Only-Readable-Once list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Product of consecutive fib numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Product of consecutive fib numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Sum of pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Valid Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Bit Counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Bit Counting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Decode the Morse Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Decode the Morse Code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Exponential Comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Exponential Comparison.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Multiples of 3 or 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Multiples of 3 or 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Reverse or rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Reverse or rotate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Split Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Split Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Write Number in Expanded Form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Write Number in Expanded Form.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CodeWars/7-kyu/Printer error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/7-kyu/Printer error.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Bitwise AND.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Extra-Long-Factorials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Extra-Long-Factorials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Grading-Students.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Grading-Students.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/More Linked Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/More Linked Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Nested Logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Testing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Equal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Fibonacci Modified.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Fibonacci Modified.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Greedy/Goodland-Electricity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Greedy/Goodland-Electricity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Implementation/Encryption.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/HourRank 27/Impressing the boss.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/HourRank 27/Maximum Profit.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/2D Array - DS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/Minimum Swaps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/New Year Chaos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Stacks/Maximum element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Sherlock and Anagrams.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Two Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/1-TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/1-TwoSum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/10-Regular Expression Matching.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/102-Binary Tree Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/102-Binary Tree Level Order Traversal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/104-Maximum Depth of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/104-Maximum Depth of Binary Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/11-Container With Most Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/11-Container With Most Water.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/116-Populating Next Right Pointers in Each Node.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/12-Integer to Roman.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/120-Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/120-Triangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/125-Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/125-Valid Palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/13-Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/13-Roman to Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/137-Single Number II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/137-Single Number II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/14-Longest Common Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/14-Longest Common Prefix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/142-Linked List Cycle II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/15-3 Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/15-3 Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/151-Reverse Words in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/151-Reverse Words in String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/17-Letter Combinations of a Phone Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/17-Letter Combinations of a Phone Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/179-Largest Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/179-Largest Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/187-Repeated DNA Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/187-Repeated DNA Sequences.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/19-Remove nth Node from End of List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/2-AddTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/2-AddTwoNumbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/203-Remove Linked List Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/205-Isomophic Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/205-Isomophic Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/208-Prefix Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/208-Prefix Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/21-Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/21-Merge Two Sorted Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/217-Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/217-Contains Duplicate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/23-Merge k Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/23-Merge k Sorted Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/24-Swap Node in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/24-Swap Node in Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/242-Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/242-Valid Anagram.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/26-Remove Duplicates from Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/26-Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/27-Remove Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/27-Remove Element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/274-H Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/274-H Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/287-Find the Duplicate Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/287-Find the Duplicate Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/3-LengthOfLongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/3-LengthOfLongestSubstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/30-Substring with Concatenation of All Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/30-Substring with Concatenation of All Words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/300-Longest Increasing Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/300-Longest Increasing Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/319-Bulb Switcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/319-Bulb Switcher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/34-Find First and Last Position of Element in Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/34-Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/342-Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/342-Power of Four.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/39-Combination Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/39-Combination Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/392-Is Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/392-Is Subsequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/398-Random Pick Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/398-Random Pick Index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/4-Median of Two Sorted Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/4-Median of Two Sorted Arrays.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/41-Find Missing Positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/41-Find Missing Positive.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/412-FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/412-FizzBuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/441-Arranging Coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/441-Arranging Coins.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/442-Find All Duplicates in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/442-Find All Duplicates in an Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/448-Find All Numbers Disappeared in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/448-Find All Numbers Disappeared in an Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/451-Sort Characters By Frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/451-Sort Characters By Frequency.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/46-Permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/46-Permutations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/462-Minimum Moves to Equal Array Elements II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/476-Number Complement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/476-Number Complement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/485-Max Consecutive Ones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/485-Max Consecutive Ones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/5-Longest Palindromic Substring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/50-Pow(x,n).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/50-Pow(x,n).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/51-N-Queens.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/513-Find Bottom Left Tree Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/513-Find Bottom Left Tree Value.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/52-N-Queens II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/524-Longest Word in Dictionary through Deleting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/524-Longest Word in Dictionary through Deleting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/540-Single Element in Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/540-Single Element in Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/557-Reverse Words in a String III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/557-Reverse Words in a String III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/560-Subarray Sum Equals K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/6-Zigzag Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/6-Zigzag Conversion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/600-Non-negative Integers without Consecutive Ones.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/605-Can Place Flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/605-Can Place Flowers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/657-Robot Return to Origin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/657-Robot Return to Origin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/67-Add Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/67-Add Binary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/677-Map Sum Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/677-Map Sum Pairs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/7-Reverse Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/7-Reverse Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/717-1-Bit and 2-Bit Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/717-1-Bit and 2-Bit Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/77-Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/77-Combinations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/78-Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/78-Subsets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/791-Custom Sort String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/791-Custom Sort String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/796-Rotate String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/796-Rotate String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/8-String to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/8-String to Integer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/814-Binary Tree Pruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/814-Binary Tree Pruning.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/82-Remove Duplicates from Sorted List II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/82-Remove Duplicates from Sorted List II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/83-Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/83-Remove Duplicates from Sorted List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/841-Keys and Rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/841-Keys and Rooms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/876-Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/876-Middle of the Linked List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/9-Palindrome Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/9-Palindrome Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/917-Reverse Only Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/917-Reverse Only Letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/919-Complete Binary Tree Inserter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/919-Complete Binary Tree Inserter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/925-Long Pressed Name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/926-Flip String to Monotone Increasing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/929-Unique Email Addresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/929-Unique Email Addresses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/930-Binary Subarrays with Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/930-Binary Subarrays with Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/942-DI String Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/942-DI String Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/98-Validate Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/98-Validate Binary Search Tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Math of Intelligence/Support Vector Machines.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -194,13 +26,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="java" value="3" />
-          <entry key="py" value="4" />
+          <entry key="py" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JAVA" value="3" />
-          <entry key="Python" value="4" />
+          <entry key="Python" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -251,7 +83,22 @@
           <expand>
             <path>
               <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Bloomberg CodeCon" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeWars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Math of Intelligence" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -262,7 +109,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543309588887" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543309805614" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (standard_env)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -360,12 +207,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543308986477</updated>
-      <workItem from="1543308987775" duration="595000" />
+      <workItem from="1543308987775" duration="871000" />
     </task>
+    <task id="LOCAL-00001" summary="reformat project to multi-language project">
+      <created>1543309742274</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543309742274</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="595000" />
+    <option name="totallyTimeSpent" value="871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -382,10 +237,10 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32959184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -426,9 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python/LeetCode/4-Median of Two Sorted Arrays.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Python/LeetCode/5-Longest Palindromic Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -440,6 +292,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/476-Number Complement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/917-Reverse Only Letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/4-Median of Two Sorted Arrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/8-String to Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
