@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Code Learning.iml" filepath="$PROJECT_DIR$/.idea/Code Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code-Learning.iml" filepath="$PROJECT_DIR$/Code-Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/Java.iml" filepath="$PROJECT_DIR$/Java/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Python/Python.iml" filepath="$PROJECT_DIR$/Python/Python.iml" />
     </modules>
   </component>
 </project>

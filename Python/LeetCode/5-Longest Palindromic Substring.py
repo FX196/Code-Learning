@@ -25,4 +25,4 @@ def extend_center(s, left, right):
 
 
 if __name__ == "__main__":
-    Solution.longestPalindrome(Solution, "babad")
+    print(Solution().longestPalindrome("babad"))

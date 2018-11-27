@@ -1,13 +1,178 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="SCOPE_TYPE" value="10" />
-    <option name="CUSTOM_SCOPE_NAME" value="Changed Files" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="Finished #448 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
+    <list default="true" id="a0836470-e79c-4bdf-b27d-bd5db3c40e38" name="Default Changelist" comment="reformat project to multi-language project">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/LeetCode/Two_Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code Learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Bloomberg CodeCon/Base Arithmetic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Church Numbers-Add, Multiply, Exponents.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Finding an appointment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Huffman Encoding.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/Molecule to atoms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/Molecule to atoms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/The Millionth Fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/3-kyu/sudoku.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/3-kyu/sudoku.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Explosive Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Explosive Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Longest pyramid slide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Range Extraction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Reverse polish notation calclator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Reverse polish notation calclator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/4-kyu/Vigenere Cipher Helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/4-kyu/Vigenere Cipher Helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Is my friend cheating.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Only-Readable-Once list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Only-Readable-Once list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Product of consecutive fib numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Product of consecutive fib numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Sum of pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/5-kyu/Valid Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/5-kyu/Valid Parentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Bit Counting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Bit Counting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Decode the Morse Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Decode the Morse Code.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Exponential Comparison.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Exponential Comparison.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Multiples of 3 or 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Multiples of 3 or 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Reverse or rotate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Reverse or rotate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Split Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Split Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/WeIrD StRiNg CaSe.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/6-kyu/Write Number in Expanded Form.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/6-kyu/Write Number in Expanded Form.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CodeWars/7-kyu/Printer error.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/CodeWars/7-kyu/Printer error.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Bitwise AND.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Extra-Long-Factorials.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Extra-Long-Factorials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Grading-Students.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Grading-Students.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/More Linked Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/More Linked Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Nested Logic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/RegEx, Patterns, and Intro to Databases.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/30 Days of Code/Testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/30 Days of Code/Testing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Equal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Equal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Fibonacci Modified.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Fibonacci Modified.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Stock Maximize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Greedy/Goodland-Electricity.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Greedy/Goodland-Electricity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Algorithms/Implementation/Encryption.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Basic Statistics Warmup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Correlation and Regression Lines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life-trainingdata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Artificial Intelligence/Statistics and Machine Learning/Laptop Battery Life.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/HourRank 27/Impressing the boss.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/HourRank 27/Maximum Profit.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/10-summation-of-primes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/11-largest-product-in-a-grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/2-even-fibonacci-numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/6-sum-square-difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/8-largest-product-in-a-series.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/2D Array - DS.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/2D Array - DS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/Minimum Swaps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/Minimum Swaps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Arrays/New Year Chaos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Data Structures/Stacks/Maximum element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Data Structures/Stacks/Maximum element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Hash Tables: Ransom Note.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Sherlock and Anagrams.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/Interview Preparation/Two Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/HackerRank/Interview Preparation/Two Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/1-TwoSum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/1-TwoSum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/10-Regular Expression Matching.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/102-Binary Tree Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/102-Binary Tree Level Order Traversal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/104-Maximum Depth of Binary Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/104-Maximum Depth of Binary Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/11-Container With Most Water.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/11-Container With Most Water.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/116-Populating Next Right Pointers in Each Node.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/12-Integer to Roman.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/12-Integer to Roman.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/120-Triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/120-Triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/125-Valid Palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/125-Valid Palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/13-Roman to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/13-Roman to Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/137-Single Number II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/137-Single Number II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/14-Longest Common Prefix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/14-Longest Common Prefix.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/142-Linked List Cycle II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/15-3 Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/15-3 Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/151-Reverse Words in String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/151-Reverse Words in String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/17-Letter Combinations of a Phone Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/17-Letter Combinations of a Phone Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/179-Largest Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/179-Largest Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/187-Repeated DNA Sequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/187-Repeated DNA Sequences.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/19-Remove nth Node from End of List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/19-Remove nth Node from End of List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/2-AddTwoNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/2-AddTwoNumbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/203-Remove Linked List Elements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/205-Isomophic Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/205-Isomophic Strings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/208-Prefix Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/208-Prefix Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/21-Merge Two Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/21-Merge Two Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/217-Contains Duplicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/217-Contains Duplicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/23-Merge k Sorted Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/23-Merge k Sorted Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/24-Swap Node in Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/24-Swap Node in Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/242-Valid Anagram.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/242-Valid Anagram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/26-Remove Duplicates from Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/26-Remove Duplicates from Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/27-Remove Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/27-Remove Element.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/274-H Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/274-H Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/287-Find the Duplicate Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/287-Find the Duplicate Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/3-LengthOfLongestSubstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/3-LengthOfLongestSubstring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/30-Substring with Concatenation of All Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/30-Substring with Concatenation of All Words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/300-Longest Increasing Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/300-Longest Increasing Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/319-Bulb Switcher.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/319-Bulb Switcher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/34-Find First and Last Position of Element in Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/34-Find First and Last Position of Element in Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/342-Power of Four.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/342-Power of Four.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/39-Combination Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/39-Combination Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/392-Is Subsequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/392-Is Subsequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/398-Random Pick Index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/398-Random Pick Index.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/4-Median of Two Sorted Arrays.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/4-Median of Two Sorted Arrays.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/41-Find Missing Positive.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/41-Find Missing Positive.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/412-FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/412-FizzBuzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/441-Arranging Coins.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/441-Arranging Coins.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/442-Find All Duplicates in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/442-Find All Duplicates in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/448-Find All Numbers Disappeared in an Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/448-Find All Numbers Disappeared in an Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/451-Sort Characters By Frequency.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/451-Sort Characters By Frequency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/46-Permutations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/46-Permutations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/462-Minimum Moves to Equal Array Elements II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/476-Number Complement.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/476-Number Complement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/485-Max Consecutive Ones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/485-Max Consecutive Ones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/5-Longest Palindromic Substring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/50-Pow(x,n).py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/50-Pow(x,n).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/51-N-Queens.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/51-N-Queens.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/513-Find Bottom Left Tree Value.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/513-Find Bottom Left Tree Value.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/52-N-Queens II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/524-Longest Word in Dictionary through Deleting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/524-Longest Word in Dictionary through Deleting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/540-Single Element in Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/540-Single Element in Sorted Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/557-Reverse Words in a String III.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/557-Reverse Words in a String III.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/560-Subarray Sum Equals K.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/6-Zigzag Conversion.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/6-Zigzag Conversion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/600-Non-negative Integers without Consecutive Ones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/605-Can Place Flowers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/605-Can Place Flowers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/657-Robot Return to Origin.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/657-Robot Return to Origin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/67-Add Binary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/67-Add Binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/677-Map Sum Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/677-Map Sum Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/7-Reverse Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/7-Reverse Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/717-1-Bit and 2-Bit Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/717-1-Bit and 2-Bit Characters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/77-Combinations.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/77-Combinations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/78-Subsets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/78-Subsets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/791-Custom Sort String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/791-Custom Sort String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/796-Rotate String.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/796-Rotate String.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/8-String to Integer.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/8-String to Integer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/814-Binary Tree Pruning.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/814-Binary Tree Pruning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/82-Remove Duplicates from Sorted List II.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/82-Remove Duplicates from Sorted List II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/83-Remove Duplicates from Sorted List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/83-Remove Duplicates from Sorted List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/841-Keys and Rooms.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/841-Keys and Rooms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/876-Middle of the Linked List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/876-Middle of the Linked List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/9-Palindrome Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/9-Palindrome Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/917-Reverse Only Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/917-Reverse Only Letters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/919-Complete Binary Tree Inserter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/919-Complete Binary Tree Inserter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/925-Long Pressed Name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/926-Flip String to Monotone Increasing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/929-Unique Email Addresses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/929-Unique Email Addresses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/930-Binary Subarrays with Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/930-Binary Subarrays with Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/942-DI String Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/942-DI String Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/98-Validate Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/LeetCode/98-Validate Binary Search Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math of Intelligence/Support Vector Machines.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python/Math of Intelligence/Support Vector Machines.py" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,122 +180,43 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Code_Learning$930_Binary_Subarrays_With_Sum.coverage" NAME="930-Binary Subarrays With Sum Coverage Results" MODIFIED="1541097956907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$51_N_Queens.coverage" NAME="51-N-Queens Coverage Results" MODIFIED="1542946838679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$Common_Child.coverage" NAME="Common Child Coverage Results" MODIFIED="1536707814049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Algorithms/Strings" />
-    <SUITE FILE_PATH="coverage/Code_Learning$New_Year_Chaos.coverage" NAME="New Year Chaos Coverage Results" MODIFIED="1536022414314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
-    <SUITE FILE_PATH="coverage/Code_Learning$Minimum_Swaps.coverage" NAME="Minimum Swaps Coverage Results" MODIFIED="1536023762793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Data Structures/Arrays" />
-    <SUITE FILE_PATH="coverage/Code_Learning$Sherlock_and_Anagrams.coverage" NAME="Sherlock and Anagrams Coverage Results" MODIFIED="1536131410183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HackerRank/Interview Preparation" />
-    <SUITE FILE_PATH="coverage/Code_Learning$926_Flip_String_to_Monotone_Increasing.coverage" NAME="926-Flip String to Monotone Increasing Coverage Results" MODIFIED="1540086788321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$10_Regular_Expression_Matching.coverage" NAME="10-Regular Expression Matching Coverage Results" MODIFIED="1540452560728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$15_3_Sum.coverage" NAME="15-3 Sum Coverage Results" MODIFIED="1541097968399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1535601367429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$LengthOfLongestSubstring.coverage" NAME="LengthOfLongestSubstring Coverage Results" MODIFIED="1536021968390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$5_Longest_Palindromic_Substring.coverage" NAME="5-Longest Palindromic Substring Coverage Results" MODIFIED="1536387230971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
-    <SUITE FILE_PATH="coverage/Code_Learning$Base_Arithmetic.coverage" NAME="Base Arithmetic Coverage Results" MODIFIED="1542761099169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bloomberg CodeCon" />
-    <SUITE FILE_PATH="coverage/Code_Learning$605_Can_Place_Flowers.coverage" NAME="605-Can Place Flowers Coverage Results" MODIFIED="1540251696562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$5_Longest_Palindromic_Substring.coverage" NAME="5-Longest Palindromic Substring Coverage Results" MODIFIED="1543309575452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$Base_Arithmetic.coverage" NAME="Base Arithmetic Coverage Results" MODIFIED="1543309549899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Bloomberg CodeCon" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="79" />
-          <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.2" value="13" />
-          <entry key="project.open.time.3" value="33" />
-          <entry key="project.open.time.4" value="26" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="79" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="130" />
+          <entry key="java" value="3" />
+          <entry key="py" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="3" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="8" />
-          <entry key="py" value="6921" />
-          <entry key="txt" value="823" />
+          <entry key="txt" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="831" />
-          <entry key="Python" value="6921" />
+          <entry key="PLAIN_TEXT" value="52" />
         </counts>
       </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="130" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/137-Single Number II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/51-N-Queens.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-              <folding>
-                <marker date="1542947785418" expanded="true" signature="1000:1039" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/442-Find All Duplicates in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/448-Find All Numbers Disappeared in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -139,100 +225,8 @@
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>sum</find>
-      <find>l</find>
-      <find>len(scores)</find>
-      <find>}</find>
-      <find>result</find>
-      <find>c</find>
-      <find>pyramid</find>
-      <find>ans</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>total</replace>
-      <replace>maximum</replace>
-      <replace>n</replace>
-      <replace>]</replace>
-      <replace>index</replace>
-      <replace>triangle</replace>
-      <replace>res</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
-      <list>
-        <option value="yuhongc &lt;mikechen212@gmail.com&gt;" />
-        <option value="Yuhong Chen" />
-      </list>
-    </option>
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="master" />
-      </map>
-    </option>
-    <option name="SET_USER_NAME_GLOBALLY" value="false" />
-    <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/LeetCode/600-Non-negative Integers without Consecutive Ones.py" />
-        <option value="$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/142-Linked List Cycle II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/208-Prefix Tree.py" />
-        <option value="$PROJECT_DIR$/LeetCode/398-Random Pick Index.py" />
-        <option value="$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py" />
-        <option value="$PROJECT_DIR$/LeetCode/917-Reverse Only Letters.py" />
-        <option value="$PROJECT_DIR$/LeetCode/919-Complete Binary Tree Inserter.py" />
-        <option value="$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py" />
-        <option value="$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py" />
-        <option value="$PROJECT_DIR$/LeetCode/27-Remove Element.py" />
-        <option value="$PROJECT_DIR$/LeetCode/67-Add Binary.py" />
-        <option value="$PROJECT_DIR$/LeetCode/605-Can Place Flowers.py" />
-        <option value="$PROJECT_DIR$/LeetCode/392-Is Subsequence.py" />
-        <option value="$PROJECT_DIR$/LeetCode/451-Sort Characters By Frequency.py" />
-        <option value="$PROJECT_DIR$/LeetCode/677-Map Sum Pairs.py" />
-        <option value="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" />
-        <option value="$PROJECT_DIR$/LeetCode/78-Subsets.py" />
-        <option value="$PROJECT_DIR$/LeetCode/83-Remove Duplicates from Sorted List.py" />
-        <option value="$PROJECT_DIR$/LeetCode/82-Remove Duplicates from Sorted List II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/217-Contains Duplicate.py" />
-        <option value="$PROJECT_DIR$/LeetCode/717-1-Bit and 2-Bit Characters.py" />
-        <option value="$PROJECT_DIR$/LeetCode/929-Unique Email Addresses.py" />
-        <option value="$PROJECT_DIR$/LeetCode/930-Binary Subarrays With Sum.py" />
-        <option value="$PROJECT_DIR$/LeetCode/930-Binary Subarrays with Sum.py" />
-        <option value="$PROJECT_DIR$/LeetCode/287-Find the Duplicate Number.py" />
-        <option value="$PROJECT_DIR$/LeetCode/876-Middle of the Linked List.py" />
-        <option value="$PROJECT_DIR$/LeetCode/151-Reverse Words in String.py" />
-        <option value="$PROJECT_DIR$/LeetCode/104-Maximum Depth of Binary Tree.py" />
-        <option value="$PROJECT_DIR$/LeetCode/15-3 Sum.py" />
-        <option value="$PROJECT_DIR$/LeetCode/513-Find Bottom Left Tree Value.py" />
-        <option value="$PROJECT_DIR$/LeetCode/46-Permutations.py" />
-        <option value="$PROJECT_DIR$/LeetCode/77-Combinations.py" />
-        <option value="$PROJECT_DIR$/LeetCode/39-Combination Sum.py" />
-        <option value="$PROJECT_DIR$/LeetCode/98-Validate Binary Search Tree.py" />
-        <option value="$PROJECT_DIR$/LeetCode/412-FizzBuzz.py" />
-        <option value="$PROJECT_DIR$/LeetCode/125-Valid Palindrome.py" />
-        <option value="$PROJECT_DIR$/LeetCode/524-Longest Word in Dictionary through Deleting.py" />
-        <option value="$PROJECT_DIR$/LeetCode/791-Custom Sort String.py" />
-        <option value="$PROJECT_DIR$/LeetCode/120-Triangle.py" />
-        <option value="$PROJECT_DIR$/LeetCode/841-Keys and Rooms.py" />
-        <option value="$PROJECT_DIR$/LeetCode/942-DI String Match.py" />
-        <option value="$PROJECT_DIR$/LeetCode/441-Arranging Coins.py" />
-        <option value="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" />
-        <option value="$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py" />
-        <option value="$PROJECT_DIR$/LeetCode/137-Single Number II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py" />
-        <option value="$PROJECT_DIR$/LeetCode/51-N-Queens.py" />
-        <option value="$PROJECT_DIR$/LeetCode/52-N-Queens II.py" />
-        <option value="$PROJECT_DIR$/LeetCode/442-Find All Duplicates in an Array.py" />
-        <option value="$PROJECT_DIR$/LeetCode/448-Find All Numbers Disappeared in an Array.py" />
-      </list>
-    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -244,26 +238,20 @@
     <option name="width" value="1680" />
     <option name="height" value="1050" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Code-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,19 +260,26 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="collections&#9;FILE&#9;file:///Users/yuhongc/PycharmProjects/standard_env/lib/python3.7/site-packages/matplotlib/collections.py&#10;paren&#9;null&#9;null&#10;palind&#9;FILE&#9;file:///Users/yuhongc/PycharmProjects/Code-Learning/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="RSettings" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543309588887" />
+    <property name="jdk.selected.JAVA_MODULE" value="10" />
+    <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (standard_env)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\HackerRank\Competitions" />
-      <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\CodeWars\6-kyu" />
-      <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\CodeWars\5-kyu" />
-      <recent name="C:\Users\YuHong\PycharmProjects\Code Learning\HackerRank" />
-      <recent name="C:\Users\YuHong\PycharmProjects\HackerRank\30 Days of Code" />
+      <recent name="$PROJECT_DIR$/Java" />
+      <recent name="$PROJECT_DIR$/Python/LeetCode" />
+      <recent name="$PROJECT_DIR$/Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -299,87 +294,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.51-N-Queens">
-    <configuration name="10-Regular Expression Matching" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
+  <component name="RunManager" selected="Python.5-Longest Palindromic Substring">
+    <configuration name="5-Longest Palindromic Substring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="15-3 Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/15-3 Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="51-N-Queens" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/51-N-Queens.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="930-Binary Subarrays With Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/930-Binary Subarrays With Sum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/LeetCode/5-Longest Palindromic Substring.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -389,19 +318,19 @@
       <method v="2" />
     </configuration>
     <configuration name="Base Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Code Learning" />
+      <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bloomberg CodeCon" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Bloomberg CodeCon" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Bloomberg CodeCon/Base Arithmetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -411,19 +340,13 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.10-Regular Expression Matching" />
-      <item itemvalue="Python.930-Binary Subarrays With Sum" />
-      <item itemvalue="Python.15-3 Sum" />
       <item itemvalue="Python.Base Arithmetic" />
-      <item itemvalue="Python.51-N-Queens" />
+      <item itemvalue="Python.5-Longest Palindromic Substring" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.51-N-Queens" />
+        <item itemvalue="Python.5-Longest Palindromic Substring" />
         <item itemvalue="Python.Base Arithmetic" />
-        <item itemvalue="Python.15-3 Sum" />
-        <item itemvalue="Python.930-Binary Subarrays With Sum" />
-        <item itemvalue="Python.10-Regular Expression Matching" />
       </list>
     </recent_temporary>
   </component>
@@ -432,398 +355,51 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="34fda5db-07f5-4e59-89d5-4151c4df59d1" name="Default" comment="" />
-      <created>1515418897815</created>
+      <changelist id="a0836470-e79c-4bdf-b27d-bd5db3c40e38" name="Default Changelist" comment="" />
+      <created>1543308986477</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1515418897815</updated>
+      <updated>1543308986477</updated>
+      <workItem from="1543308987775" duration="595000" />
     </task>
-    <task id="LOCAL-00080" summary="Finished #462 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539846610204</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1539846610205</updated>
-    </task>
-    <task id="LOCAL-00081" summary="Finished #143 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539883344657</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1539883344658</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Finished #142 Leetcode Medium (fix number)&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539883407608</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1539883407608</updated>
-    </task>
-    <task id="LOCAL-00083" summary="Finished #208 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539919859993</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1539919859994</updated>
-    </task>
-    <task id="LOCAL-00084" summary="Finished #398 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539982063028</created>
-      <option name="number" value="00084" />
-      <option name="presentableId" value="LOCAL-00084" />
-      <option name="project" value="LOCAL" />
-      <updated>1539982063029</updated>
-    </task>
-    <task id="LOCAL-00085" summary="Finished #46 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1539982929872</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1539982929872</updated>
-    </task>
-    <task id="LOCAL-00086" summary="Finished #560 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540053377218</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1540053377218</updated>
-    </task>
-    <task id="LOCAL-00087" summary="Finished #917, 919 Leetcode Medium&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540058934344</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1540058934344</updated>
-    </task>
-    <task id="LOCAL-00088" summary="Finished #917 Easy, 919 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540151489109</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1540151489109</updated>
-    </task>
-    <task id="LOCAL-00089" summary="Finished #27 Easy Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540152424625</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1540152424625</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Finished #27 Easy Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540156303317</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1540156303317</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Finished #67 Easy Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540192461417</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1540192461417</updated>
-    </task>
-    <task id="LOCAL-00092" summary="Finished #605 Easy Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540251785888</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1540251785888</updated>
-    </task>
-    <task id="LOCAL-00093" summary="Finished #392 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540343299629</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1540343299630</updated>
-    </task>
-    <task id="LOCAL-00094" summary="Finished #451 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540365599901</created>
-      <option name="number" value="00094" />
-      <option name="presentableId" value="LOCAL-00094" />
-      <option name="project" value="LOCAL" />
-      <updated>1540365599902</updated>
-    </task>
-    <task id="LOCAL-00095" summary="Finished #677 Medium Leetcode&#10;Ongoing: #10,30,300 Leetcode">
-      <created>1540413281390</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1540413281390</updated>
-    </task>
-    <task id="LOCAL-00096" summary="Finished #10 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540452634389</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1540452634390</updated>
-    </task>
-    <task id="LOCAL-00097" summary="Finished #78 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540453432694</created>
-      <option name="number" value="00097" />
-      <option name="presentableId" value="LOCAL-00097" />
-      <option name="project" value="LOCAL" />
-      <updated>1540453432694</updated>
-    </task>
-    <task id="LOCAL-00098" summary="Finished #83 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540490247032</created>
-      <option name="number" value="00098" />
-      <option name="presentableId" value="LOCAL-00098" />
-      <option name="project" value="LOCAL" />
-      <updated>1540490247032</updated>
-    </task>
-    <task id="LOCAL-00099" summary="Finished #82 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540490643555</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1540490643555</updated>
-    </task>
-    <task id="LOCAL-00100" summary="Finished #217 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540541772312</created>
-      <option name="number" value="00100" />
-      <option name="presentableId" value="LOCAL-00100" />
-      <option name="project" value="LOCAL" />
-      <updated>1540541772312</updated>
-    </task>
-    <task id="LOCAL-00101" summary="Finished #717 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540622545531</created>
-      <option name="number" value="00101" />
-      <option name="presentableId" value="LOCAL-00101" />
-      <option name="project" value="LOCAL" />
-      <updated>1540622545532</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Finished #929 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540692196576</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1540692196577</updated>
-    </task>
-    <task id="LOCAL-00103" summary="Finished #930 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540742919860</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1540742919861</updated>
-    </task>
-    <task id="LOCAL-00104" summary="Finished #287 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540844411470</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1540844411471</updated>
-    </task>
-    <task id="LOCAL-00105" summary="Finished #876 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540889085998</created>
-      <option name="number" value="00105" />
-      <option name="presentableId" value="LOCAL-00105" />
-      <option name="project" value="LOCAL" />
-      <updated>1540889085999</updated>
-    </task>
-    <task id="LOCAL-00106" summary="Finished #151 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1540924180736</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1540924180738</updated>
-    </task>
-    <task id="LOCAL-00107" summary="Finished #104 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541016721190</created>
-      <option name="number" value="00107" />
-      <option name="presentableId" value="LOCAL-00107" />
-      <option name="project" value="LOCAL" />
-      <updated>1541016721191</updated>
-    </task>
-    <task id="LOCAL-00108" summary="Finished #513 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541114970205</created>
-      <option name="number" value="00108" />
-      <option name="presentableId" value="LOCAL-00108" />
-      <option name="project" value="LOCAL" />
-      <updated>1541114970206</updated>
-    </task>
-    <task id="LOCAL-00109" summary="Finished #77 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541654302175</created>
-      <option name="number" value="00109" />
-      <option name="presentableId" value="LOCAL-00109" />
-      <option name="project" value="LOCAL" />
-      <updated>1541654302176</updated>
-    </task>
-    <task id="LOCAL-00110" summary="Finished #39 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541733671095</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1541733671096</updated>
-    </task>
-    <task id="LOCAL-00111" summary="Finished #98 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541824496197</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1541824496197</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Finished #412 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541919037452</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1541919037452</updated>
-    </task>
-    <task id="LOCAL-00113" summary="Finished #125 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1541976157481</created>
-      <option name="number" value="00113" />
-      <option name="presentableId" value="LOCAL-00113" />
-      <option name="project" value="LOCAL" />
-      <updated>1541976157482</updated>
-    </task>
-    <task id="LOCAL-00114" summary="Finished #514 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542085818501</created>
-      <option name="number" value="00114" />
-      <option name="presentableId" value="LOCAL-00114" />
-      <option name="project" value="LOCAL" />
-      <updated>1542085818502</updated>
-    </task>
-    <task id="LOCAL-00115" summary="Finished #791 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542177151368</created>
-      <option name="number" value="00115" />
-      <option name="presentableId" value="LOCAL-00115" />
-      <option name="project" value="LOCAL" />
-      <updated>1542177151369</updated>
-    </task>
-    <task id="LOCAL-00116" summary="Finished #791 Medium Leetcode (Optimization)&#10;Ongoing: #30,300 Leetcode">
-      <created>1542177322701</created>
-      <option name="number" value="00116" />
-      <option name="presentableId" value="LOCAL-00116" />
-      <option name="project" value="LOCAL" />
-      <updated>1542177322702</updated>
-    </task>
-    <task id="LOCAL-00117" summary="Finished #120 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542249595280</created>
-      <option name="number" value="00117" />
-      <option name="presentableId" value="LOCAL-00117" />
-      <option name="project" value="LOCAL" />
-      <updated>1542249595281</updated>
-    </task>
-    <task id="LOCAL-00118" summary="Finished #841 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542524281743</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1542524281743</updated>
-    </task>
-    <task id="LOCAL-00119" summary="Finished #942 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542577773844</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1542577773844</updated>
-    </task>
-    <task id="LOCAL-00120" summary="Finished #441 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542696360138</created>
-      <option name="number" value="00120" />
-      <option name="presentableId" value="LOCAL-00120" />
-      <option name="project" value="LOCAL" />
-      <updated>1542696360139</updated>
-    </task>
-    <task id="LOCAL-00121" summary="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode">
-      <created>1542761401374</created>
-      <option name="number" value="00121" />
-      <option name="presentableId" value="LOCAL-00121" />
-      <option name="project" value="LOCAL" />
-      <updated>1542761401375</updated>
-    </task>
-    <task id="LOCAL-00122" summary="Finished #116 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542761956327</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1542761956327</updated>
-    </task>
-    <task id="LOCAL-00123" summary="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542826565618</created>
-      <option name="number" value="00123" />
-      <option name="presentableId" value="LOCAL-00123" />
-      <option name="project" value="LOCAL" />
-      <updated>1542826565619</updated>
-    </task>
-    <task id="LOCAL-00124" summary="Finished #203 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542928084424</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1542928084424</updated>
-    </task>
-    <task id="LOCAL-00125" summary="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542947125413</created>
-      <option name="number" value="00125" />
-      <option name="presentableId" value="LOCAL-00125" />
-      <option name="project" value="LOCAL" />
-      <updated>1542947125413</updated>
-    </task>
-    <task id="LOCAL-00126" summary="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1542947786298</created>
-      <option name="number" value="00126" />
-      <option name="presentableId" value="LOCAL-00126" />
-      <option name="project" value="LOCAL" />
-      <updated>1542947786298</updated>
-    </task>
-    <task id="LOCAL-00127" summary="Finished #442 Medium Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1543050793840</created>
-      <option name="number" value="00127" />
-      <option name="presentableId" value="LOCAL-00127" />
-      <option name="project" value="LOCAL" />
-      <updated>1543050793840</updated>
-    </task>
-    <task id="LOCAL-00128" summary="Finished #448 Easy Leetcode&#10;Ongoing: #30,300 Leetcode">
-      <created>1543051232211</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1543051232211</updated>
-    </task>
-    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
-  <component name="TodoView" selected-index="4">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23655257" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Style Checker" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" weight="0.32959184" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32968238" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49572128" weight="0.3989796" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4987775" weight="0.4489796" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298122" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32959184" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5042787" side_tool="true" visible="true" weight="0.3989796" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49938875" visible="true" weight="0.32244897" />
-      <window_info anchor="bottom" id="Python Console" order="11" weight="0.32959184" />
-      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.31113425" />
-      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="15" weight="0.32959184" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="R Graphics" order="3" />
-      <window_info anchor="right" id="R Packages" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="SciView" order="6" />
-      <window_info anchor="right" id="Scheme.REPL" order="7" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -833,591 +409,114 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="Finished #287 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #876 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #151 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #104 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #513 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #77 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #39 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #98 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #412 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #125 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #514 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #791 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #791 Medium Leetcode (Optimization)&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #120 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #841 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #942 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #441 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished Base Arithmetic Bloomberg&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #116 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #137 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #203 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #51 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #52 Hard Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #442 Medium Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <MESSAGE value="Finished #448 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished #448 Easy Leetcode&#10;Ongoing: #30,300 Leetcode" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Extra-Long-Factorials.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Extra-Long-Factorials.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Greedy/Goodland-Electricity.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py</url>
-          <line>13</line>
-          <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Linked List.py</url>
-          <line>29</line>
-          <option name="timeStamp" value="15" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Nested Logic.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/30 Days of Code/Bitwise AND.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Artificial Intelligence/Bot Building/Bot saves princess.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="25" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/1-multiples-of-3-and-5.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/3-largest-prime-factor.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/4-largest-palindrome-product.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="34" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/5-smallest-multiple.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/7-10001st-prime.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="39" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/ProjectEuler+/9-special-pythagorean-triplet.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/6-kyu/WeIrD StRiNg CaSe.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/5-kyu/Is my friend cheating.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/5-kyu/Sum of pairs.py</url>
-          <line>11</line>
-          <option name="timeStamp" value="46" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/3-kyu/Finding an appointment.py</url>
-          <line>12</line>
-          <option name="timeStamp" value="47" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/4-kyu/Range Extraction.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/6-kyu/Multiples of 3 or 5.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/7-kyu/Printer error.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/2-kyu/Symbolic differentiation of prefix expressions.py</url>
-          <line>28</line>
-          <option name="timeStamp" value="60" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Encryption.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="61" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Implementation/Climbing the leaderboard.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="62" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Equal.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="64" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py</url>
-          <line>2</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Impressing the boss.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Competitions/HourRank 27/Maximum Profit.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/3-kyu/The Millionth Fibonacci.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/CodeWars/3-kyu/Huffman Encoding.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode/3-LengthOfLongestSubstring.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Data Structures/Arrays/New Year Chaos.py</url>
-          <line>4</line>
-          <option name="timeStamp" value="74" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/HackerRank/Interview Preparation/Sherlock and Anagrams.py</url>
-          <line>1</line>
-          <option name="timeStamp" value="75" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode/5-Longest Palindromic Substring.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-      </breakpoints>
-      <breakpoints-dialog>
-        <breakpoints-dialog />
-      </breakpoints-dialog>
-      <default-breakpoints>
-        <breakpoint suspend="NONE" type="python-exception">
-          <properties notifyOnTerminate="true" exception="BaseException">
-            <option name="notifyOnTerminate" value="true" />
-          </properties>
-        </breakpoint>
-      </default-breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="reformat project to multi-language project" />
+    <option name="LAST_COMMIT_MESSAGE" value="reformat project to multi-language project" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/925-Long Pressed Name.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/Java_1/Two_Sum.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/926-Flip String to Monotone Increasing.py">
+    <entry file="file://$PROJECT_DIR$/Python/HackerRank/Algorithms/Dynamic Programming/Abbreviation.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Bloomberg CodeCon/Base Arithmetic.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/27-Remove Element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/4-Median of Two Sorted Arrays.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/392-Is Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/605-Can Place Flowers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../standard_env/lib/python3.7/site-packages/matplotlib/collections.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/462-Minimum Moves to Equal Array Elements II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/476-Number Complement.py">
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/5-Longest Palindromic Substring.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/485-Max Consecutive Ones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/540-Single Element in Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="52" lean-forward="true" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/557-Reverse Words in a String III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/677-Map Sum Pairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/451-Sort Characters By Frequency.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/10-Regular Expression Matching.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/78-Subsets.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/82-Remove Duplicates from Sorted List II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/83-Remove Duplicates from Sorted List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/217-Contains Duplicate.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/717-1-Bit and 2-Bit Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/929-Unique Email Addresses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/560-Subarray Sum Equals K.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="81" lean-forward="true" selection-start-line="25" selection-start-column="81" selection-end-line="25" selection-end-column="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/930-Binary Subarrays with Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/287-Find the Duplicate Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/876-Middle of the Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="43" lean-forward="true" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/151-Reverse Words in String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="40" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/104-Maximum Depth of Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/15-3 Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/46-Permutations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/67-Add Binary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/513-Find Bottom Left Tree Value.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="79" selection-start-line="23" selection-start-column="79" selection-end-line="23" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/77-Combinations.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="89" selection-start-line="12" selection-start-column="89" selection-end-line="12" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HackerRank/Algorithms/Dynamic Programming/The Coin Change Problem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/98-Validate Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/39-Combination Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/412-FizzBuzz.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/125-Valid Palindrome.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/524-Longest Word in Dictionary through Deleting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/791-Custom Sort String.py">
+    <entry file="file://$PROJECT_DIR$/Java/LeetCode/Two_Sum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/841-Keys and Rooms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/120-Triangle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CodeWars/4-kyu/Longest pyramid slide.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/942-DI String Match.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/441-Arranging Coins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Bloomberg CodeCon/Base Arithmetic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="93" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/116-Populating Next Right Pointers in Each Node.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/137-Single Number II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/203-Remove Linked List Elements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/51-N-Queens.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding>
-            <marker date="1542947785418" expanded="true" signature="1000:1039" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/52-N-Queens II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/442-Find All Duplicates in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/448-Find All Numbers Disappeared in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="86" selection-start-line="10" selection-start-column="86" selection-end-line="10" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 (standard_env) interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Python</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
