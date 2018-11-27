@@ -8,7 +8,7 @@
  */
 package LeetCode;
 
-class Solution_Add_Two_Numbers {
+class Solution_2 {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         return partialAdd(l1, l2, 0);
     }
