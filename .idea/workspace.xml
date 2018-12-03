@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0836470-e79c-4bdf-b27d-bd5db3c40e38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/LeetCode/Median_Of_Two_Sorted_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java/LeetCode/ZigZag_Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/LeetCode/Flip_Equivalent_Binary_Trees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java/LeetCode/TreeNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -21,48 +21,58 @@
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.4" value="3" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="13" />
+          <entry key="java" value="15" />
           <entry key="py" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="15" />
           <entry key="Python" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1722" />
+          <entry key="java" value="2143" />
           <entry key="py" value="2" />
-          <entry key="txt" value="143" />
+          <entry key="txt" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1722" />
-          <entry key="PLAIN_TEXT" value="143" />
+          <entry key="JAVA" value="2143" />
+          <entry key="PLAIN_TEXT" value="169" />
           <entry key="Python" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Java/LeetCode/ZigZag_Conversion.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+            <state relative-caret-position="360">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Java/LeetCode/Flip_Equivalent_Binary_Trees.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -77,6 +87,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -90,6 +105,8 @@
         <option value="$PROJECT_DIR$/Java/LeetCode/Longest_Substring_Without_Repeating_Characters.java" />
         <option value="$PROJECT_DIR$/Java/LeetCode/Median_Of_Two_Sorted_Arrays.java" />
         <option value="$PROJECT_DIR$/Java/LeetCode/ZigZag_Conversion.java" />
+        <option value="$PROJECT_DIR$/Java/LeetCode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/Java/LeetCode/Flip_Equivalent_Binary_Trees.java" />
       </list>
     </option>
   </component>
@@ -111,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,14 +148,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543641218768" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543822308009" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.7 (standard_env)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -270,7 +287,8 @@
       <workItem from="1543308987775" duration="931000" />
       <workItem from="1543355668011" duration="3098000" />
       <workItem from="1543365191434" duration="345000" />
-      <workItem from="1543640397609" duration="840000" />
+      <workItem from="1543640397609" duration="1142000" />
+      <workItem from="1543821641305" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="reformat project to multi-language project">
       <created>1543309742274</created>
@@ -307,17 +325,24 @@
       <option name="project" value="LOCAL" />
       <updated>1543360056824</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished: #6 Medium LeetCode Java&#10;Ongoing: #30, 300 LeetCode, #4 LeetCode Java">
+      <created>1543641303828</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1543641303828</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5214000" />
+    <option name="totallyTimeSpent" value="6179000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26495728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26800978" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +390,9 @@
     <MESSAGE value="formatting changes" />
     <MESSAGE value="Finished: #1, 2 LeetCode Java&#10;Ongoing: #30, 300 LeetCode" />
     <MESSAGE value="Finished: #3 LeetCode Java&#10;Ongoing: #30, 300 LeetCode&#10;style changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished: #3 LeetCode Java&#10;Ongoing: #30, 300 LeetCode&#10;style changes" />
+    <MESSAGE value="Finished: #6 Medium LeetCode Java&#10;Ongoing: #30, 300 LeetCode, #4 LeetCode Java&#10;style changes" />
+    <MESSAGE value="Finished: #6 Medium LeetCode Java&#10;Ongoing: #30, 300 LeetCode, #4 LeetCode Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished: #6 Medium LeetCode Java&#10;Ongoing: #30, 300 LeetCode, #4 LeetCode Java" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Python/LeetCode/Java_1/Two_Sum.java" />
@@ -482,8 +509,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Java/LeetCode/ZigZag_Conversion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        <state relative-caret-position="360">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/LeetCode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java/LeetCode/Flip_Equivalent_Binary_Trees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
