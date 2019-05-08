@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a0836470-e79c-4bdf-b27d-bd5db3c40e38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Java/LeetCode/Three_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1A/Alien Rhyme.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1A/Golf Gophers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1A/Pylons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/Qualification Round/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/Qualification Round/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/Qualification Round/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Practice Round/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Practice Round/testing_tool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Round A/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Round A/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Round A/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Round B/Building Palindromes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/Kick Start 2019/Round B/Energy Stones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/LeetCode/1025-Divisor Game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/LeetCode/1026-Maximum Difference Between Node and Ancestor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/LeetCode/1027-Longest Arithmetic Sequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/LeetCode/1030-Matrix Cells in Distance Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python/LeetCode/1032-Stream of Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1B/Fair Fight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1B/Manhattan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/Code Jam 2019/1B/Temp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python/LeetCode/714-Best Time to Buy and Sell Stock with Transaction Fee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java/Java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java/Java.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,44 +19,48 @@
     <SUITE FILE_PATH="coverage/Code_Learning$Alien_Rhyme.coverage" NAME="Alien Rhyme Coverage Results" MODIFIED="1555121596236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Code Jam 2019/1A" />
     <SUITE FILE_PATH="coverage/Code_Learning$A.coverage" NAME="A Coverage Results" MODIFIED="1553401144251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kick Start 2019/Round A" />
     <SUITE FILE_PATH="coverage/Code_Learning$Building_Palindromes.coverage" NAME="Building Palindromes Coverage Results" MODIFIED="1555802167532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Kick Start 2019/Round B" />
+    <SUITE FILE_PATH="coverage/Code_Learning$Manhattan.coverage" NAME="Manhattan Coverage Results" MODIFIED="1556471056337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Code Jam 2019/1B" />
     <SUITE FILE_PATH="coverage/Code_Learning$5_Longest_Palindromic_Substring.coverage" NAME="5-Longest Palindromic Substring Coverage Results" MODIFIED="1543309938493" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$Base_Arithmetic.coverage" NAME="Base Arithmetic Coverage Results" MODIFIED="1555210445789" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Bloomberg CodeCon" />
     <SUITE FILE_PATH="coverage/Code_Learning$1027_Longest_Arithmetic_Sequence.coverage" NAME="1027-Longest Arithmetic Sequence Coverage Results" MODIFIED="1555211604669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.coverage" NAME="714-Best Time to Buy and Sell Stock with Transaction Fee Coverage Results" MODIFIED="1557274262355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/LeetCode" />
     <SUITE FILE_PATH="coverage/Code_Learning$C.coverage" NAME="C Coverage Results" MODIFIED="1554539241030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Code Jam 2019/Qualification Round" />
     <SUITE FILE_PATH="coverage/Code_Learning$1026_Maximum_Difference_Between_Node_and_Ancestor.coverage" NAME="1026-Maximum Difference Between Node and Ancestor Coverage Results" MODIFIED="1555210596760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/LeetCode" />
+    <SUITE FILE_PATH="coverage/Code_Learning$Fair_Fight.coverage" NAME="Fair Fight Coverage Results" MODIFIED="1556474830329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python/Code Jam 2019/1B" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1501016600">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="6" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="java" value="16" />
-          <entry key="py" value="48" />
+          <entry key="py" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="JAVA" value="16" />
-          <entry key="Python" value="48" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="30" />
           <entry key="java" value="2357" />
-          <entry key="py" value="4991" />
+          <entry key="py" value="7312" />
           <entry key="txt" value="178" />
         </counts>
       </usages-collector>
@@ -81,7 +68,7 @@
         <counts>
           <entry key="JAVA" value="2357" />
           <entry key="PLAIN_TEXT" value="208" />
-          <entry key="Python" value="4991" />
+          <entry key="Python" value="7312" />
         </counts>
       </usages-collector>
     </session>
@@ -89,14 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python/LeetCode/1032-Stream of Characters.py">
+        <entry file="file://$PROJECT_DIR$/Python/LeetCode/714-Best Time to Buy and Sell Stock with Transaction Fee.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
-              <folding>
-                <marker date="1555814928049" expanded="true" signature="53:411" ph="..." />
-                <marker date="1555814928049" expanded="true" signature="494:592" ph="..." />
-              </folding>
+            <state relative-caret-position="240">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -117,11 +100,13 @@
       <find>print</find>
       <find>input</find>
       <find>stderr</find>
+      <find>x</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>sys.stderr.write</replace>
       <replace>sys.stdin.readline()</replace>
+      <replace>y</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -160,6 +145,10 @@
         <option value="$PROJECT_DIR$/Python/Kick Start 2019/Round B/Energy Stones.py" />
         <option value="$PROJECT_DIR$/Python/LeetCode/1030-Matrix Cells in Distance Order.py" />
         <option value="$PROJECT_DIR$/Python/LeetCode/1032-Stream of Characters.py" />
+        <option value="$PROJECT_DIR$/Python/Code Jam 2019/1B/Temp.py" />
+        <option value="$PROJECT_DIR$/Python/Code Jam 2019/1B/Manhattan.py" />
+        <option value="$PROJECT_DIR$/Python/Code Jam 2019/1B/Fair Fight.py" />
+        <option value="$PROJECT_DIR$/Python/LeetCode/714-Best Time to Buy and Sell Stock with Transaction Fee.py" />
       </list>
     </option>
   </component>
@@ -183,7 +172,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,17 +186,13 @@
             <path>
               <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Kick Start 2019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Code-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
@@ -224,16 +208,17 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Python" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Python/Kick Start 2019/Practice Round" />
       <recent name="$PROJECT_DIR$/Java" />
       <recent name="$PROJECT_DIR$/Python/LeetCode" />
+      <recent name="$PROJECT_DIR$/Python" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Python/Code Jam 2019/1B" />
       <recent name="$PROJECT_DIR$/Python" />
     </key>
   </component>
@@ -249,29 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Building Palindromes">
-    <configuration name="1026-Maximum Difference Between Node and Ancestor" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/LeetCode" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/LeetCode/1026-Maximum Difference Between Node and Ancestor.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.714-Best Time to Buy and Sell Stock with Transaction Fee">
     <configuration name="1027-Longest Arithmetic Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -294,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Alien Rhyme" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="714-Best Time to Buy and Sell Stock with Transaction Fee" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -302,34 +265,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Code Jam 2019/1A" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/LeetCode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Code Jam 2019/1A/Alien Rhyme.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Base Arithmetic" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Bloomberg CodeCon" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Bloomberg CodeCon/Base Arithmetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/LeetCode/714-Best Time to Buy and Sell Stock with Transaction Fee.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -360,20 +301,64 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Fair Fight" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Code Jam 2019/1B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Code Jam 2019/1B/Fair Fight.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Manhattan" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python/Code Jam 2019/1B" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python/Code Jam 2019/1B/Manhattan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Python.Base Arithmetic" />
-      <item itemvalue="Python.Alien Rhyme" />
-      <item itemvalue="Python.1026-Maximum Difference Between Node and Ancestor" />
       <item itemvalue="Python.1027-Longest Arithmetic Sequence" />
       <item itemvalue="Python.Building Palindromes" />
+      <item itemvalue="Python.Fair Fight" />
+      <item itemvalue="Python.Manhattan" />
+      <item itemvalue="Python.714-Best Time to Buy and Sell Stock with Transaction Fee" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.714-Best Time to Buy and Sell Stock with Transaction Fee" />
+        <item itemvalue="Python.Fair Fight" />
+        <item itemvalue="Python.Manhattan" />
         <item itemvalue="Python.Building Palindromes" />
         <item itemvalue="Python.1027-Longest Arithmetic Sequence" />
-        <item itemvalue="Python.1026-Maximum Difference Between Node and Ancestor" />
-        <item itemvalue="Python.Base Arithmetic" />
-        <item itemvalue="Python.Alien Rhyme" />
       </list>
     </recent_temporary>
   </component>
@@ -453,7 +438,7 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30012226" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31173593" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -493,6 +478,32 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -518,6 +529,11 @@
           <url>file://$PROJECT_DIR$/Python/LeetCode/1027-Longest Arithmetic Sequence.py</url>
           <line>2</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Python/Code Jam 2019/1B/Manhattan.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -794,12 +810,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python/LeetCode/1032-Stream of Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="37" lean-forward="true" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state relative-caret-position="577">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Code Jam 2019/1B/Manhattan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
           <folding>
-            <marker date="1555814928049" expanded="true" signature="53:411" ph="..." />
-            <marker date="1555814928049" expanded="true" signature="494:592" ph="..." />
+            <marker date="1556472786505" expanded="true" signature="40:45" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Code Jam 2019/1B/Temp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1556467175936" expanded="true" signature="66:81" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/Code Jam 2019/1B/Fair Fight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="60" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+          <folding>
+            <marker date="1556474907241" expanded="true" signature="71:532" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python/LeetCode/714-Best Time to Buy and Sell Stock with Transaction Fee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
         </state>
       </provider>
     </entry>
