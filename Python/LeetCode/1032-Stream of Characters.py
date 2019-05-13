@@ -37,4 +37,4 @@ class StreamChecker:
 # obj = StreamChecker(words)
 # param_1 = obj.query(letter)
 
-#TODO
+# TODO

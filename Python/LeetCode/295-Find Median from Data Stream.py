@@ -39,7 +39,6 @@ class MedianFinder(object):
         else:
             return self.small[0]
 
-
 # Your MedianFinder object will be instantiated and called as such:
 # obj = MedianFinder()
 # obj.addNum(num)
