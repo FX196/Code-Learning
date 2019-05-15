@@ -6,4 +6,4 @@ Easy - 49
 
 Medium - 58
 
-Hard - 12
+Hard - 14
