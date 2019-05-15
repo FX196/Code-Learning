@@ -6,7 +6,7 @@ class Solution:
         missing = len(t)
         need = defaultdict(int)
         for c in t:
-            need[c]+=1
+            need[c] += 1
         i = left = right = 0
         for j, c in enumerate(s, 1):
             missing -= need[c] > 0
